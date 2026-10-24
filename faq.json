@@ -1,160 +1,174 @@
 {
-"fox-control-mornington-peninsula": [
-[
-"How many foxes will you get in one night?",
-"On a typical Peninsula hobby farm the first night takes two to five foxes. Numbers drop quickly after that, which is why the first visit sets up a follow-up a few weeks later."
-],
-[
-"Is shooting better than baiting for foxes?",
-"On the Peninsula, yes. Most blocks are too close to neighbours, dogs and public land to lay 1080 or PAPP legally or safely. Shooting is target-specific and leaves nothing in the paddock."
-],
-[
-"When is the best time of year for fox control?",
-"Late winter and spring during lambing and kidding, and again in autumn when the year's cubs disperse. For poultry losses, any time you are losing birds."
-],
-[
-"Will my dogs or horses be at risk?",
-"No. We shoot only with a clear backstop, away from stock, and with thermal identification of every target. We work at a distance and animals settle quickly."
-]
-],
-"rabbit-control-mornington-peninsula": [
-[
-"Can shooting alone get rid of rabbits?",
-"Shooting knocks numbers down fast but does not finish a warren. We point you to the warrens we find so you can rip or fumigate them, which is what stops them coming back."
-],
-[
-"Will it disturb the house?",
-"We use small-calibre rifles, worked at a distance from the house with a clear backstop. It is a controlled operation, not a loud one."
-],
-[
-"Do you work in vineyards?",
-"Yes. Rabbits ring-bark young vines, so spring sessions during establishment are our most common vineyard booking. We work after cellar-door hours."
-]
-],
-"deer-control-mornington-peninsula": [
-[
-"Is it legal to shoot deer on my property?",
-"Yes. Deer are unprotected on private land in Victoria and the landholder can authorise control. We hold a Game Licence and handle the authority paperwork."
-],
-[
-"What happens to the carcass?",
-"Removed and disposed of, or dressed on site if you want the meat. Where a property has steady numbers we can often do regular visits free in exchange for harvesting."
-],
-[
-"Which deer are on the Peninsula?",
-"Fallow are the most common, with red and hog deer around Arthurs Seat, Main Ridge, Red Hill and the Westernport bush."
-]
-],
-"feral-cat-control-mornington-peninsula": [
-[
-"How do you know a cat is feral and not someone's pet?",
-"No collar or ear tag, in bushland away from houses, and usually seen repeatedly on the same property. If there is any doubt the animal is left alone."
-],
-[
-"Do you trap as well as shoot?",
-"Yes. On properties too close to neighbours for shooting alone we combine it with cage trapping."
-],
-[
-"Why control feral cats at all?",
-"They are the main predator of bandicoots, hooded plover chicks and small reptiles on the Peninsula, and they raid aviaries and chook pens."
-]
-],
-"rat-control-mornington-peninsula": [
-[
-"Why not just use bait?",
-"Rat baits kill owls, dogs and occasionally horses. On stables, chook pens and anywhere product is stored, shooting removes rats with nothing left behind."
-],
-[
-"Is shooting inside a shed safe?",
-"We use air rifles and subsonic .22 from inside the building with a clear backstop, and we check the shed layout at the assessment first."
-],
-[
-"How long does it take?",
-"A two-hour evening visit usually removes the bulk of an infestation. We then advise on grain storage and sealing gaps."
-]
-],
-"vineyard-pest-control-mornington-peninsula": [
-[
-"Can you work around cellar-door hours and events?",
-"Yes. Sessions run after close, at dawn, or on days you nominate. We stay away from guest areas."
-],
-[
-"Do you leave anything in the vineyard?",
-"No baits, no poisons and no carcasses. Deer are removed and warrens pointed out for your crew."
-],
-[
-"How often do vineyards book you?",
-"Most run a monthly program from budburst to veraison, with extra visits if damage picks up."
-]
-],
-"horse-property-pest-control-mornington-peninsula": [
-[
-"Will the shooting spook my horses?",
-"We work from the outside of the paddocks and never shoot across a paddock with stock in it, so horses usually settle quickly."
-],
-[
-"Can you do the rats in my feed room?",
-"Yes. That is our most common horse-property booking: a two-hour evening visit with air rifle and subsonic .22, no baits."
-],
-[
-"What about foxes around foaling?",
-"We time fox nights to foaling season and work the dens near the foaling paddocks for a follow-up."
-]
-],
-"hobby-farm-pest-control-mornington-peninsula": [
-[
-"My block is only five acres. Can you still shoot there?",
-"Usually yes. Small blocks near neighbours need a Public Place Permit, which we hold, and the plan is set at a daytime assessment."
-],
-[
-"Is the first night really free?",
-"Yes, one free night per property. You see the count of what was taken before you pay for anything."
-],
-[
-"What should I do before you arrive?",
-"Lock dogs and cats inside, tell us where stock are, and leave outside lights as they normally are."
-]
-],
-"acreage-pest-control-mornington-peninsula": [
-[
-"Is it legal to shoot on a lifestyle block near town?",
-"Only with a Victoria Police Public Place Permit, which we hold. We also notify the local police station before each session."
-],
-[
-"How is it kept low-key?",
-"Thermal optics mean no spotlights are used, and every session is planned around your property and timing to keep disturbance down."
-],
-[
-"How many visits do I need?",
-"Most lifestyle blocks are one or two nights a year, timed to spring and to when the garden or poultry start suffering."
-]
-],
-"commercial-farm-pest-control-mornington-peninsula": [
-[
-"Do you quote per visit or per program for a big property?",
-"For working farms and multi-property operations we quote a per-hectare or per-program rate rather than per visit, so the cost matches the scale of the job."
-],
-[
-"Can you fit in around lambing and calving?",
-"Yes. We build the program around your calendar and weight the work to the weeks either side of lambing and calving when losses peak."
-],
-[
-"Will you work in with our baiting and fencing contractors?",
-"Yes. We coordinate with your existing baiting, warren-ripping and fencing so the whole control effort pulls together."
-]
-],
-"orchard-market-garden-pest-control-mornington-peninsula": [
-[
-"Is anything left on the produce or in the soil?",
-"No. Shooting is target-specific, with no baits, residues or food-safety concerns anywhere near crops or trees."
-],
-[
-"Can you work around picking and planting?",
-"Yes. We work after hours and around harvest crews, and time visits to picking and planting schedules."
-],
-[
-"What damage are you controlling in an orchard?",
-"Mainly rabbits ring-barking young trees and seedlings, deer browsing new growth, and foxes raiding poultry and digging soft ground."
-]
-]
+ "fox-control-mornington-peninsula": [
+  [
+   "How many foxes will you get in one night?",
+   "On a typical Peninsula hobby farm the first night takes two to five foxes. Numbers drop quickly after that, which is why the first visit sets up a follow-up a few weeks later."
+  ],
+  [
+   "Is shooting better than baiting for foxes?",
+   "On the Peninsula, yes. Most blocks are too close to neighbours, dogs and public land to lay 1080 or PAPP legally or safely. Shooting is target-specific and leaves nothing in the paddock."
+  ],
+  [
+   "When is the best time of year for fox control?",
+   "Late winter and spring during lambing and kidding, and again in autumn when the year's cubs disperse. For poultry losses, any time you are losing birds."
+  ],
+  [
+   "Will my dogs or horses be at risk?",
+   "No. We shoot only with a clear backstop, away from stock, and with thermal identification of every target. We work at a distance and animals settle quickly."
+  ]
+ ],
+ "rabbit-control-mornington-peninsula": [
+  [
+   "Can shooting alone get rid of rabbits?",
+   "Shooting knocks numbers down fast but does not finish a warren. We point you to the warrens we find so you can rip or fumigate them, which is what stops them coming back."
+  ],
+  [
+   "Will it disturb the house?",
+   "We use small-calibre rifles, worked at a distance from the house with a clear backstop. It is a controlled operation, not a loud one."
+  ],
+  [
+   "Do you work in vineyards?",
+   "Yes. Rabbits ring-bark young vines, so spring sessions during establishment are our most common vineyard booking. We work after cellar-door hours."
+  ]
+ ],
+ "deer-control-mornington-peninsula": [
+  [
+   "Is it legal to shoot deer on my property?",
+   "Yes. Deer are unprotected on private land in Victoria and the landholder can authorise control. We hold a Game Licence and handle the authority paperwork."
+  ],
+  [
+   "What happens to the carcass?",
+   "Removed and disposed of, or dressed on site if you want the meat. Where a property has steady numbers we can often do regular visits free in exchange for harvesting."
+  ],
+  [
+   "Which deer are on the Peninsula?",
+   "Fallow are the most common, with red and hog deer around Arthurs Seat, Main Ridge, Red Hill and the Westernport bush."
+  ]
+ ],
+ "feral-cat-control-mornington-peninsula": [
+  [
+   "How do you know a cat is feral and not someone's pet?",
+   "No collar or ear tag, in bushland away from houses, and usually seen repeatedly on the same property. If there is any doubt the animal is left alone."
+  ],
+  [
+   "Do you trap as well as shoot?",
+   "Yes. On properties too close to neighbours for shooting alone we combine it with cage trapping."
+  ],
+  [
+   "Why control feral cats at all?",
+   "They are the main predator of bandicoots, hooded plover chicks and small reptiles on the Peninsula, and they raid aviaries and chook pens."
+  ]
+ ],
+ "rat-control-mornington-peninsula": [
+  [
+   "Why not just use bait?",
+   "Rat baits kill owls, dogs and occasionally horses. On stables, chook pens and anywhere product is stored, shooting removes rats with nothing left behind."
+  ],
+  [
+   "Is shooting inside a shed safe?",
+   "We use air rifles and subsonic .22 from inside the building with a clear backstop, and we check the shed layout at the assessment first."
+  ],
+  [
+   "How long does it take?",
+   "A two-hour evening visit usually removes the bulk of an infestation. We then advise on grain storage and sealing gaps."
+  ]
+ ],
+ "vineyard-pest-control-mornington-peninsula": [
+  [
+   "Can you work around cellar-door hours and events?",
+   "Yes. Sessions run after close, at dawn, or on days you nominate. We stay away from guest areas."
+  ],
+  [
+   "Do you leave anything in the vineyard?",
+   "No baits, no poisons and no carcasses. Deer are removed and warrens pointed out for your crew."
+  ],
+  [
+   "How often do vineyards book you?",
+   "Most run a monthly program from budburst to veraison, with extra visits if damage picks up."
+  ]
+ ],
+ "horse-property-pest-control-mornington-peninsula": [
+  [
+   "Will the shooting spook my horses?",
+   "We work from the outside of the paddocks and never shoot across a paddock with stock in it, so horses usually settle quickly."
+  ],
+  [
+   "Can you do the rats in my feed room?",
+   "Yes. That is our most common horse-property booking: a two-hour evening visit with air rifle and subsonic .22, no baits."
+  ],
+  [
+   "What about foxes around foaling?",
+   "We time fox nights to foaling season and work the dens near the foaling paddocks for a follow-up."
+  ]
+ ],
+ "hobby-farm-pest-control-mornington-peninsula": [
+  [
+   "My block is only five acres. Can you still shoot there?",
+   "Usually yes. Small blocks near neighbours need a Public Place Permit, which we hold, and the plan is set at a daytime assessment."
+  ],
+  [
+   "Is the first night really free?",
+   "Yes, one free night per property. You see the count of what was taken before you pay for anything."
+  ],
+  [
+   "What should I do before you arrive?",
+   "Lock dogs and cats inside, tell us where stock are, and leave outside lights as they normally are."
+  ]
+ ],
+ "acreage-pest-control-mornington-peninsula": [
+  [
+   "Is it legal to shoot on a lifestyle block near town?",
+   "Only with a Victoria Police Public Place Permit, which we hold. We also notify the local police station before each session."
+  ],
+  [
+   "How is it kept low-key?",
+   "Thermal optics mean no spotlights are used, and every session is planned around your property and timing to keep disturbance down."
+  ],
+  [
+   "How many visits do I need?",
+   "Most lifestyle blocks are one or two nights a year, timed to spring and to when the garden or poultry start suffering."
+  ]
+ ],
+ "commercial-farm-pest-control-mornington-peninsula": [
+  [
+   "Do you quote per visit or per program for a big property?",
+   "For working farms and multi-property operations we quote a per-hectare or per-program rate rather than per visit, so the cost matches the scale of the job."
+  ],
+  [
+   "Can you fit in around lambing and calving?",
+   "Yes. We build the program around your calendar and weight the work to the weeks either side of lambing and calving when losses peak."
+  ],
+  [
+   "Will you work in with our baiting and fencing contractors?",
+   "Yes. We coordinate with your existing baiting, warren-ripping and fencing so the whole control effort pulls together."
+  ]
+ ],
+ "orchard-market-garden-pest-control-mornington-peninsula": [
+  [
+   "Is anything left on the produce or in the soil?",
+   "No. Shooting is target-specific, with no baits, residues or food-safety concerns anywhere near crops or trees."
+  ],
+  [
+   "Can you work around picking and planting?",
+   "Yes. We work after hours and around harvest crews, and time visits to picking and planting schedules."
+  ],
+  [
+   "What damage are you controlling in an orchard?",
+   "Mainly rabbits ring-barking young trees and seedlings, deer browsing new growth, and foxes raiding poultry and digging soft ground."
+  ]
+ ],
+ "pest-shooting-mornington-peninsula": [
+  [
+   "Do you do termites, ants or general pest control?",
+   "No. We are licensed firearms shooters for feral and vermin animals — foxes, rabbits, deer, feral cats and rats. For termites, ants, cockroaches or spiders you want a chemical pest control company, which is a different trade. What we do is remove the actual animals with thermal-scoped shooting, with no baits or sprays."
+  ],
+  [
+   "Are you actually licensed to shoot on private property?",
+   "Yes. We hold a Victorian Category A/B firearms licence endorsed for vermin and feral animal control, a Game Licence for deer, public liability insurance, and a Victoria Police Public Place Permit for blocks close to houses and roads. The landholder authority paperwork is handled for you and the local police station is notified before each session."
+  ],
+  [
+   "Which animals do you shoot?",
+   "Foxes, rabbits, deer (fallow, red and hog), feral cats and rats. If it is a feral or pest animal doing damage on the Peninsula, it is what we do; if it is an insect or a termite, it is not."
+  ]
+ ]
 }

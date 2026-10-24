@@ -128,8 +128,8 @@ graph_base = [business, {"@type": "WebSite", "url": DOMAIN + "/", "name": NAME}]
 
 # ---- home
 (DIST / "index.html").write_text(skeleton(
-    f"{NAME} | Fox, Rabbit, Deer & Feral Cat Control Mornington Peninsula",
-    "Licensed, insured feral control for Mornington Peninsula vineyards, commercial farms, orchards, horse properties and acreage. Foxes, rabbits, deer, feral cats and rats. First night free. Text 0466 659 997.",
+    "Pest & Feral Shooting Mornington Peninsula | Fox, Rabbit & Deer Shooter",
+    "Licensed, insured pest and feral shooting across the Mornington Peninsula — foxes, rabbits, deer, feral cats and rats. A professional shooter, not a termite or spray company. First night free. Text 0466 659 997.",
     DOMAIN + "/", head_assets + "\n</head>\n<body>\n" + body_rest.replace('<section class="band price-band" id="pricing">', GALLERY + faq_html(faqs["hobby-farm-pest-control-mornington-peninsula"][:2] + faqs["fox-control-mornington-peninsula"][1:3] + faqs["acreage-pest-control-mornington-peninsula"][:1]) + '<section class="band price-band" id="pricing">', 1),
     {"@context": "https://schema.org", "@graph": graph_base + [faq_schema(faqs["hobby-farm-pest-control-mornington-peninsula"][:2] + faqs["fox-control-mornington-peninsula"][1:3] + faqs["acreage-pest-control-mornington-peninsula"][:1])]}))
 urls.append("/")
