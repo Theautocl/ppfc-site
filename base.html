@@ -314,9 +314,11 @@ footer .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px 
     var suburb=document.getElementById('f-suburb').value.trim();
     var pests=[].slice.call(form.querySelectorAll('input[name=pest]:checked')).map(function(c){return c.value}).join(', ');
     var body='Site assessment request\nName: '+name+'\nPhone: '+phone+'\nSuburb: '+suburb+'\nSize: '+document.getElementById('f-size').value+'\nPests: '+(pests||'not specified')+'\nNotes: '+document.getElementById('f-notes').value.trim();
+    var tel='{{PHONE}}'.replace(/[^0-9+]/g,'');
     msg.hidden=false;
-    msg.textContent='Thanks '+name+'. This preview site can\'t send messages yet, so please text {{PHONE}} or email the address below and we\'ll book your free first night.';
-    try{ if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(body).then(function(){ msg.textContent+=' Your details have been copied so you can paste them into an email.'; }).catch(function(){}); } }catch(err){}
+    msg.textContent='Thanks '+name+' — opening your messages app with your details filled in, just hit send. If nothing opens, text us at {{PHONE}} (your details are copied, ready to paste).';
+    try{ if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(body).catch(function(){}); } }catch(err){}
+    window.location.href='sms:'+tel+'?&body='+encodeURIComponent(body);
   });
   [].forEach.call(document.querySelectorAll('.copy'),function(b){
     b.addEventListener('click',function(){
