@@ -15,7 +15,7 @@ base = (HERE / "base.html").read_text()
 
 DOMAIN = cfg["domain"].rstrip("/")
 EMAIL, PHONE, ABN, TOWNS = cfg["email"], cfg["phone"], cfg["abn"], cfg["towns"]
-NAME = "Peninsula Professional Feral Control"
+NAME = "Peninsula Pest Shooting"
 base = base.replace("{{EMAIL}}", EMAIL).replace("{{PHONE}}", PHONE).replace("{{ABN}}", ABN)
 
 # ---- template surgery: graphics, about section, icons
@@ -48,6 +48,7 @@ def skeleton(title, desc, canonical, body, schema):
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#1f3b2a">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/img/favicon-180.png">
 <script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>
 {body}
 </body>
@@ -81,7 +82,7 @@ body_home = base.replace('<meta name="claude:viewport-fit-sides" content="cover"
 body_home = re.sub(r"<title>.*?</title>\n", "", body_home, count=1)
 m = re.search(r"(<link[^>]+>\n<style>.*?</style>)\n(.*)", body_home, re.S)
 head_assets, body_rest = m.group(1), m.group(2)
-body_rest = body_rest.replace('class="brand">', 'class="brand"><a href="/" style="text-decoration:none;color:inherit">', 1).replace('Feral Control<small>', 'Feral Control</a><small>', 1)
+# brand is already a linked logo image in base.html — no wrapping needed
 
 def page_body(h1, lede, eyebrow, local_html, crumb_items):
     b = body_rest
