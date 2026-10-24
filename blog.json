@@ -1,26 +1,81 @@
 [
-{"slug":"fox-season-mornington-peninsula","title":"Fox season on the Mornington Peninsula: when losses peak and what to do about it","date":"2026-10-24","desc":"When foxes do the most damage on Peninsula hobby farms and horse properties, and how to time control so it actually works.",
-"paras":[
-"Foxes are on the Peninsula all year, but the damage comes in two waves. The first is late winter into spring, when vixens are feeding cubs and lambs, kids and cria are on the ground. The second is autumn, when the year's cubs leave the den and go looking for easy food, which on the Peninsula usually means a chook run.",
-"If you only control foxes once a year, do it in the four weeks before your first lambs or kids are due. A vixen with a den nearby will take a lamb a night, and a single night of thermal shooting before lambing removes the resident pair and often the den altogether.",
-"Poultry losses are different. A fox that has found a chook run will come back every night until the run is empty or the fox is dead, so the right time to call is the night after the first loss. Lock the birds up, leave the run as it is, and we work the approach the fox has been using.",
-"Baiting is rarely an option here. Most Peninsula blocks are too close to neighbours, dogs and public land for 1080 or PAPP, and the Shire's dog population makes it a real risk. Shooting is target-specific: every fox is identified through a thermal scope before a shot is taken.",
-"One night is a start, not a finish. Foxes from neighbouring bush refill empty territory within weeks. We note the dens we find and recommend a second visit three to six weeks after the first, then a monthly program through lambing for properties with a history of losses."
-]},
-{"slug":"deer-damage-peninsula-vineyards","title":"Deer in Peninsula vineyards: what the damage looks like and what the law allows","date":"2026-10-24","desc":"Fallow and hog deer are now established around Red Hill, Main Ridge and Arthurs Seat. Here is what they cost growers and what a landholder can legally do.",
-"paras":[
-"Ten years ago deer were a novelty on the Peninsula. Today fallow deer are established through Red Hill, Main Ridge and the Arthurs Seat hinterland, with hog deer along the Westernport bush and red deer appearing around Flinders. Growers see the evidence most mornings: broken trellis wire, stripped shoots at budburst, trampled netting and rubbed posts in autumn.",
-"In Victoria, deer are unprotected on private land. That means a landholder can control them, or authorise someone to, without a permit from the state. The shooter still needs a firearms licence endorsed for the work, a Game Licence from the Game Management Authority, and the landholder's written authority. Properties close to houses or roads also need the shooter to hold a Victoria Police Public Place Permit.",
-"Deer move between bush cover and feed at dawn and dusk, so control works best along the bush boundary at those times rather than in the vineyard rows. We plan shot positions with clear backstops at a daytime assessment, use thermal spotting to find animals in cover, and remove or dress carcasses on site depending on what the grower wants.",
-"Where a property has steady deer numbers and the owner is happy with regular visits, control can often be done free of charge in exchange for harvesting. For most vineyards the practical arrangement is a monthly program from budburst through veraison, when the damage is concentrated.",
-"Fencing still matters. Deer-proof fencing on the bush side of a vineyard is expensive, but combined with regular control it is the only approach that keeps a block clean season after season."
-]},
-{"slug":"why-we-dont-bait","title":"Why we don't bait: dogs, owls and 1080 on the Peninsula","date":"2026-10-24","desc":"Baits kill more than foxes and rabbits. Why bait-free shooting is the right call on most Mornington Peninsula properties.",
-"paras":[
-"Every year Peninsula vets treat dogs that have eaten fox baits, and wildlife carers pick up barn owls and powerful owls dying from rat bait. Baiting works in broadacre country where there is nothing else around to eat it. On five-acre blocks with neighbours, pets and bush reserves on every side, it mostly kills the wrong things.",
-"1080 and PAPP fox baits are regulated for exactly that reason. On the Peninsula the distance rules from houses, roads and boundaries rule most properties out, and a dog that finds a bait usually dies before it reaches a vet.",
-"Rat baits are the quieter problem. Anticoagulant baits in a stable or chook shed are eaten by rats that then die slowly in the open, where owls, kookaburras and the farm dog find them. Second-generation baits persist through the food chain. The barn owl hunting your paddocks at night is doing more rat control than the bait station ever will.",
-"Shooting is the alternative that fits small properties. It is target-specific: with thermal optics every animal is identified before a shot is taken, and nothing is left in the paddock or shed afterwards. Small-calibre rifles and careful shot placement keep disturbance low.",
-"Where shooting alone is not enough, for a big rabbit warren system say, we point out the warrens so they can be ripped or fumigated, which deals with the problem at its source without leaving poison lying around."
-]}
+ {
+  "slug": "fox-season-mornington-peninsula",
+  "title": "Fox season on the Mornington Peninsula: when losses peak and what to do about it",
+  "date": "2026-10-24",
+  "desc": "When foxes do the most damage on Peninsula hobby farms and horse properties, and how to time control so it actually works.",
+  "paras": [
+   "Foxes are on the Peninsula all year, but the damage comes in two waves. The first is late winter into spring, when vixens are feeding cubs and lambs, kids and cria are on the ground. The second is autumn, when the year's cubs leave the den and go looking for easy food, which on the Peninsula usually means a chook run.",
+   "If you only control foxes once a year, do it in the four weeks before your first lambs or kids are due. A vixen with a den nearby will take a lamb a night, and a single night of thermal shooting before lambing removes the resident pair and often the den altogether.",
+   "Poultry losses are different. A fox that has found a chook run will come back every night until the run is empty or the fox is dead, so the right time to call is the night after the first loss. Lock the birds up, leave the run as it is, and we work the approach the fox has been using.",
+   "Baiting is rarely an option here. Most Peninsula blocks are too close to neighbours, dogs and public land for 1080 or PAPP, and the Shire's dog population makes it a real risk. Shooting is target-specific: every fox is identified through a thermal scope before a shot is taken.",
+   "One night is a start, not a finish. Foxes from neighbouring bush refill empty territory within weeks. We note the dens we find and recommend a second visit three to six weeks after the first, then a monthly program through lambing for properties with a history of losses."
+  ]
+ },
+ {
+  "slug": "deer-damage-peninsula-vineyards",
+  "title": "Deer in Peninsula vineyards: what the damage looks like and what the law allows",
+  "date": "2026-10-24",
+  "desc": "Fallow and hog deer are now established around Red Hill, Main Ridge and Arthurs Seat. Here is what they cost growers and what a landholder can legally do.",
+  "paras": [
+   "Ten years ago deer were a novelty on the Peninsula. Today fallow deer are established through Red Hill, Main Ridge and the Arthurs Seat hinterland, with hog deer along the Westernport bush and red deer appearing around Flinders. Growers see the evidence most mornings: broken trellis wire, stripped shoots at budburst, trampled netting and rubbed posts in autumn.",
+   "In Victoria, deer are unprotected on private land. That means a landholder can control them, or authorise someone to, without a permit from the state. The shooter still needs a firearms licence endorsed for the work, a Game Licence from the Game Management Authority, and the landholder's written authority. Properties close to houses or roads also need the shooter to hold a Victoria Police Public Place Permit.",
+   "Deer move between bush cover and feed at dawn and dusk, so control works best along the bush boundary at those times rather than in the vineyard rows. We plan shot positions with clear backstops at a daytime assessment, use thermal spotting to find animals in cover, and remove or dress carcasses on site depending on what the grower wants.",
+   "Where a property has steady deer numbers and the owner is happy with regular visits, control can often be done free of charge in exchange for harvesting. For most vineyards the practical arrangement is a monthly program from budburst through veraison, when the damage is concentrated.",
+   "Fencing still matters. Deer-proof fencing on the bush side of a vineyard is expensive, but combined with regular control it is the only approach that keeps a block clean season after season."
+  ]
+ },
+ {
+  "slug": "why-we-dont-bait",
+  "title": "Why we don't bait: dogs, owls and 1080 on the Peninsula",
+  "date": "2026-10-24",
+  "desc": "Baits kill more than foxes and rabbits. Why bait-free shooting is the right call on most Mornington Peninsula properties.",
+  "paras": [
+   "Every year Peninsula vets treat dogs that have eaten fox baits, and wildlife carers pick up barn owls and powerful owls dying from rat bait. Baiting works in broadacre country where there is nothing else around to eat it. On five-acre blocks with neighbours, pets and bush reserves on every side, it mostly kills the wrong things.",
+   "1080 and PAPP fox baits are regulated for exactly that reason. On the Peninsula the distance rules from houses, roads and boundaries rule most properties out, and a dog that finds a bait usually dies before it reaches a vet.",
+   "Rat baits are the quieter problem. Anticoagulant baits in a stable or chook shed are eaten by rats that then die slowly in the open, where owls, kookaburras and the farm dog find them. Second-generation baits persist through the food chain. The barn owl hunting your paddocks at night is doing more rat control than the bait station ever will.",
+   "Shooting is the alternative that fits small properties. It is target-specific: with thermal optics every animal is identified before a shot is taken, and nothing is left in the paddock or shed afterwards. Small-calibre rifles and careful shot placement keep disturbance low.",
+   "Where shooting alone is not enough, for a big rabbit warren system say, we point out the warrens so they can be ripped or fumigated, which deals with the problem at its source without leaving poison lying around."
+  ]
+ },
+ {
+  "slug": "feral-control-native-wildlife-conservation",
+  "title": "How feral control protects native wildlife on the Mornington Peninsula",
+  "date": "2026-10-25",
+  "desc": "Foxes and feral cats are the biggest killers of native animals on the Mornington Peninsula. Here's how removing them helps bandicoots, hooded plovers and other wildlife recover.",
+  "paras": [
+   "Most people book us to stop losing lambs, poultry or vines. But on the Mornington Peninsula the same work does something bigger: it takes pressure off native wildlife that is quietly disappearing. Foxes and feral cats, both introduced, are the two biggest direct killers of native animals in Australia, and the Peninsula's mix of bushland reserves sitting right next to farms and lifestyle blocks makes it one of the places where control on private land matters most.",
+   "The animals paying the price are the ones you rarely see. The Southern Brown Bandicoot, listed as endangered in Victoria, hangs on in pockets of dense cover around Greens Bush, Devilbend and the Mornington Peninsula National Park, and a single fox working a patch at night can wipe out a local group. Along the back beaches, Hooded Plovers nest straight onto the open sand, and their eggs and chicks are easy meals for foxes and cats patrolling the dunes at dawn. Ringtail possums, antechinus, small ground birds, skinks and frogs all sit on the same menu.",
+   "A feral cat is a particularly efficient hunter. Studies across Australia put the national toll from cats in the billions of native animals a year, and unlike a fox a cat will kill well beyond what it needs to eat. On bush-edge blocks we often find one or two cats working a whole neighbourhood's worth of reserve frontage.",
+   "This is where shooting does something baiting can't. It is target-specific: we identify every animal through a thermal scope before a shot is taken, so we remove the actual fox or cat doing the damage without putting poison into an environment full of native predators like owls and quolls' smaller relatives, or risking pets and working dogs. Nothing is left in the paddock or the bush afterwards.",
+   "The real gains come when private landholders and the reserves work together. Parks Victoria and Landcare run baiting and monitoring inside the big reserves, but foxes and cats don't respect boundaries, and reserves are constantly re-invaded from the farms and lifestyle blocks around them. When the properties bordering a reserve knock predator numbers down at the same time, they create a buffer, and that's when ground-nesting birds and small mammals inside actually get a chance to breed and hold on. The published research on fox control is consistent on this point: drop fox density around a patch of habitat and native populations climb.",
+   "So if your block backs onto bush, a creek line or the coast, a night of fox and cat control is worth more than the lambs or chooks it saves. It's one of the few things a single landholder can do that measurably helps the hooded plovers, bandicoots and bush birds that make the Peninsula what it is. If that's part of why you want the work done, tell us when we assess the property and we'll plan the sessions around the habitat as well as the stock."
+  ]
+ },
+ {
+  "slug": "deer-private-land-victoria-rules",
+  "title": "Deer on private land in Victoria: what you're allowed to do",
+  "date": "2026-10-25",
+  "desc": "Fallow, red and sambar deer are causing more damage on Mornington Peninsula properties every year. Here's what the law actually allows landholders to do about them.",
+  "paras": [
+   "Deer numbers across Victoria have climbed sharply over the last decade, and the Mornington Peninsula is no exception, with fallow deer established around Arthurs Seat, Red Hill, Main Ridge and the Westernport bush, and the occasional red or hog deer moving through. For a landholder watching deer strip a vineyard, flatten fences or browse new tree plantings, the first question is usually what you're actually allowed to do.",
+   "The key change most people don't know about: on private land in Victoria, landholders no longer need a permit to control most deer causing damage to their property. Deer were reclassified so that owners and people they authorise can control them on their own land to protect crops, pasture and property, outside the usual game-hunting rules. Sambar have some extra conditions, but fallow deer, the Peninsula's main problem, can be managed by the landholder year-round.",
+   "That doesn't mean anything goes. Whoever does the shooting still needs the correct firearms licence, has to follow firearm storage and safe-use laws, and on blocks close to houses, roads or townships a Victoria Police permit to discharge a firearm in a built-up area may be required. Humane destruction codes apply too, which is why the work is done with the right calibre, a clear backstop and a clean shot.",
+   "This is exactly the kind of job we're set up for. We hold the firearms and Game Licences, carry the Public Place Permit for tighter blocks, handle the landholder authority paperwork, and work the bush boundaries at dusk with thermal optics so deer are identified and taken cleanly. Carcasses are removed, or dressed on site if you want the meat.",
+   "If deer are costing you vines, fences or feed, you almost certainly have the right to deal with them now, and you don't have to navigate the paperwork yourself. Book a free first-night assessment and we'll walk the property, confirm what's needed for your particular block, and put a plan together."
+  ]
+ },
+ {
+  "slug": "rabbits-in-a-vineyard-mornington-peninsula",
+  "title": "Getting rabbits out of a vineyard before they ring-bark your vines",
+  "date": "2026-10-25",
+  "desc": "Rabbits do the most expensive damage to Mornington Peninsula vineyards in the first few years of a planting. Here's how to get on top of them without poison near the fruit.",
+  "paras": [
+   "Rabbits are the single most expensive pest a young vineyard faces on the Mornington Peninsula. A rabbit will ring-bark a newly planted vine at the graft union in a night, and a run of chewed guards down a row can set a block back a full season. Established vines cope better, but during establishment and through a dry summer the damage adds up fast.",
+   "The problem with rabbits is that you can't shoot your way to zero: they breed faster than any shooter can remove them. Shooting works as two things instead, the first hard knock that drops the standing population quickly, and the follow-up that keeps numbers down after you've dealt with the warrens. We run small-calibre thermal sessions along the rows, headlands, dam banks and fence lines where rabbits shelter, worked after cellar-door hours so your guests never see it.",
+   "The lasting fix is the warren. Shooting clears the rabbits that are out feeding, but the warren keeps producing more, so the two jobs go together: we knock the numbers down and point out the active warrens we find along your fence lines and banks so your crew can rip or fumigate them. Deal with the warren and the rabbits don't come back the same way.",
+   "None of it involves bait near the fruit. There's no 1080, no pindone, no residue and no food-safety question anywhere near the vines, which matters for organic and certified blocks and for anyone who doesn't want poison in a paddock worked by dogs and people. Everything is target-specific and nothing is left behind.",
+   "The best time to start is before and during establishment, and again heading into a dry summer when feed gets short and rabbits move onto the vines. Most vineyards we work run a monthly program from budburst to veraison with extra visits if damage picks up. The first night is free, so book an assessment and we'll walk the rows with you and set a plan around your spray and harvest calendar."
+  ]
+ }
 ]

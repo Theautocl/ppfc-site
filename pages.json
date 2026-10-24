@@ -1,369 +1,513 @@
 [
-{
-"slug": "fox-control-mornington-peninsula",
-"group": "Services",
-"nav": "Fox control",
-"service": "Fox control",
-"title": "Fox Control Mornington Peninsula | Thermal Shooting, No Baits",
-"desc": "Professional fox shooting on the Mornington Peninsula. Thermal night sessions timed to lambing and poultry losses, no 1080 baits, first night free.",
-"h1": "Fox control <em>Mornington Peninsula.</em>",
-"eyebrow": "Fox control",
-"lede": "Foxes take lambs, kids, chooks and ground-nesting birds right across the Peninsula, and baiting is off the table on most blocks because of dogs and neighbours. Thermal shooting is the alternative that works close to houses.",
-"h2": "Why shooting beats baiting here",
-"paras": [
-"Most Peninsula properties are too close to neighbours, pets and public land to lay 1080 or PAPP safely. Shooting is target-specific: every fox is identified through a thermal scope before a shot is taken, and nothing is left in the paddock for a dog to find.",
-"We time sessions to when foxes are most active and most damaging. On the Peninsula that is late winter and spring during lambing and kidding, and again in autumn when the year's cubs disperse and start raiding poultry runs. A single night rarely finishes the job, so the first visit sets up a follow-up a few weeks later.",
-"We point out any dens we find so you or your fencing contractor can collapse them later. For properties with repeated losses we recommend the monthly program, which keeps pressure on the population through the whole lambing season."
-]
-},
-{
-"slug": "rabbit-control-mornington-peninsula",
-"group": "Services",
-"nav": "Rabbit control",
-"service": "Rabbit control",
-"title": "Rabbit Control Mornington Peninsula | Thermal Night Shooting",
-"desc": "Thermal rabbit shooting for Peninsula vineyards, hobby farms and acreage. Small-calibre, bait-free, first night free.",
-"h1": "Rabbit control <em>Mornington Peninsula.</em>",
-"eyebrow": "Rabbit control",
-"lede": "Rabbits ring-bark young vines, undermine dam walls and strip pasture on the sandy soils of the southern Peninsula. Small-calibre thermal shooting knocks numbers down fast.",
-"h2": "Shooting as part of a rabbit program",
-"paras": [
-"Rabbits breed faster than any shooter can remove them, so shooting works best as the first hit and the follow-up to warren destruction. We shoot small-calibre .22 and .17 with thermal optics, carefully placed so we can work close to sheds, dams and vineyard rows.",
-"Any warren we find, we point out to you on the night, so you can hand it to a ripping contractor or fumigate it and deal with the problem at its source.",
-"Vineyard rows, dam banks, sand hills behind Rye and Fingal, and the bush edges at Boneo and Cape Schanck are where we see the heaviest numbers. Monthly visits through spring keep young vines protected while they establish."
-]
-},
-{
-"slug": "deer-control-mornington-peninsula",
-"group": "Services",
-"nav": "Deer control",
-"service": "Deer control",
-"title": "Deer Control Mornington Peninsula | Fallow, Red & Hog Deer",
-"desc": "Licensed deer control for Mornington Peninsula vineyards, orchards and acreage. Dawn and dusk sessions, carcass removal, Game Licence held.",
-"h1": "Deer control <em>Mornington Peninsula.</em>",
-"eyebrow": "Deer control",
-"lede": "Fallow, red and hog deer are now established around Arthurs Seat, Red Hill, Main Ridge and the Westernport bush. They flatten fences, strip vines and cause night-time road accidents.",
-"h2": "What deer control involves",
-"paras": [
-"Deer are unprotected on private land in Victoria, so landholders can authorise control. We hold a Victorian Game Licence and the firearms endorsements for professional feral control, and we handle the landholder authority paperwork for you.",
-"Sessions run at dawn or dusk, when deer move between bush cover and feed. We use larger-calibre rifles with thermal spotting, choose shot positions with clear backstops, and remove or dress carcasses on site depending on what you want done with the meat.",
-"Where a property has a steady deer population and the owner is happy for regular visits, control can often be done at no charge in exchange for harvesting. Ask about it at the assessment."
-]
-},
-{
-"slug": "feral-cat-control-mornington-peninsula",
-"group": "Services",
-"nav": "Feral cat control",
-"service": "Feral cat control",
-"title": "Feral Cat Control Mornington Peninsula | Positive ID Only",
-"desc": "Responsible feral cat control on bush-edge properties across the Mornington Peninsula. Thermal identification, no pets targeted, Shire rules followed.",
-"h1": "Feral cat control <em>Mornington Peninsula.</em>",
-"eyebrow": "Feral cat control",
-"lede": "Feral cats on the Peninsula take bandicoots, hooded plover chicks and reptiles, and they raid aviaries and chook pens. Control has to be careful, because owned cats roam too.",
-"h2": "How we keep it responsible",
-"paras": [
-"No cat is shot without positive identification as feral: no collar, no ear tag, in bushland well away from houses, and usually seen repeatedly on the same property. If there is any doubt the animal is left alone and we tell you.",
-"Feral cat work suits bush-edge properties bordering reserves, such as those around the Mornington Peninsula National Park, Greens Bush, Devilbend and the Westernport foreshore, where cat predation on native wildlife is heaviest.",
-"We follow Mornington Peninsula Shire's cat rules and can combine shooting with cage trapping where a property is too close to neighbours for shooting alone."
-]
-},
-{
-"slug": "rat-control-mornington-peninsula",
-"group": "Services",
-"nav": "Rat control",
-"service": "Rat and rodent control",
-"title": "Rat Control for Stables, Sheds & Chook Pens | Mornington Peninsula",
-"desc": "Bait-free rat shooting for Peninsula stables, hay sheds, feed rooms and poultry runs. Safe around horses, dogs and owls.",
-"h1": "Rat control <em>without baits.</em>",
-"eyebrow": "Rat control",
-"lede": "Rat baits kill owls, dogs and the occasional horse on Peninsula properties every year. Air rifle and subsonic .22 shooting clears a shed in an evening with nothing left behind.",
-"h2": "Where bait-free rat control makes sense",
-"paras": [
-"Horse properties are the main callers: feed rooms, hay sheds and stable blocks draw rats, and owners do not want anticoagulant baits anywhere near their animals or the barn owls that hunt the paddocks.",
-"We shoot with air rifles and subsonic .22 from inside the building, using thermal and infrared to pick rats out of rafters and hay stacks. A two-hour evening visit usually removes the bulk of an infestation; we then advise on grain storage and gaps so they do not return.",
-"This service is also booked by hobby farms with chook runs, and by wineries with barrel sheds where baits are not acceptable near product."
-]
-},
-{
-"slug": "feral-control-mornington",
-"group": "Towns",
-"nav": "Mornington",
-"service": "Feral animal control",
-"area": "Mornington, Victoria",
-"title": "Feral Animal Control Mornington | Foxes, Rabbits, Deer & Cats",
-"desc": "Professional fox, rabbit, deer and feral cat control around Mornington, Mount Martha and Moorooduc. Permitted for semi-rural blocks near town. First night free.",
-"h1": "Feral control <em>Mornington.</em>",
-"eyebrow": "Mornington · Mount Martha · Moorooduc",
-"lede": "The lifestyle blocks between Mornington, Moorooduc and Tuerong sit right against bushland corridors, and foxes and rabbits move freely between them.",
-"h2": "Working on blocks close to town",
-"paras": [
-"Properties off Bungower Road, Tuerong Road and around the Moorooduc Highway are close enough to houses that most shooters cannot legally work there. We hold a Victoria Police Public Place Permit for exactly this situation, and we notify Mornington police before every session.",
-"Foxes in this area raid poultry runs and take lambs on the smaller hobby farms; rabbits are heaviest on the sandy rises and along the Balcombe Creek corridor.",
-"We also handle deer coming down from the Mount Martha and Devilbend bush onto vineyards and orchards along the Moorooduc plain."
-]
-},
-{
-"slug": "feral-control-red-hill",
-"group": "Towns",
-"nav": "Red Hill",
-"service": "Feral animal control",
-"area": "Red Hill, Victoria",
-"title": "Feral Animal Control Red Hill | Vineyards & Orchards",
-"desc": "Deer, fox and rabbit control for Red Hill and Red Hill South vineyards, orchards and acreage. Licensed, insured, precise thermal shooting.",
-"h1": "Feral control <em>Red Hill.</em>",
-"eyebrow": "Red Hill · Red Hill South · Arthurs Seat",
-"lede": "Red Hill's vineyards and apple orchards sit under Arthurs Seat and the Mornington Peninsula National Park, which is where the deer and foxes come from.",
-"h2": "Deer and rabbits in the vines",
-"paras": [
-"Fallow and hog deer are the main problem around Red Hill: broken trellis, stripped shoots in spring and trampled netting. Dawn and dusk sessions along the bush boundary are the most effective, and most growers combine them with a monthly program through budburst.",
-"Rabbits on the volcanic soils here are fewer than on the sandy southern Peninsula but hit young vines hard. We work the warrens along fence lines and dam banks so the vineyard crew can rip them.",
-"Red Hill properties are often small, steep and close to neighbours, so every job is planned at a daytime assessment with firing lanes and backstops worked out before we return at night."
-]
-},
-{
-"slug": "feral-control-main-ridge",
-"group": "Towns",
-"nav": "Main Ridge",
-"service": "Feral animal control",
-"area": "Main Ridge, Victoria",
-"title": "Feral Animal Control Main Ridge | Deer & Fox Shooting",
-"desc": "Professional deer, fox and feral cat control for Main Ridge properties bordering Greens Bush and the national park. First night free.",
-"h1": "Feral control <em>Main Ridge.</em>",
-"eyebrow": "Main Ridge · Greens Bush · Shoreham",
-"lede": "Main Ridge backs onto Greens Bush, the largest bush block on the Peninsula, so properties here carry more deer and feral cats than anywhere else nearby.",
-"h2": "Bush-edge properties",
-"paras": [
-"Deer move out of Greens Bush onto Main Ridge pasture and vineyards every evening. We work the bush boundary at dusk and dawn, with carcass removal included, and can set up a regular harvesting arrangement for properties with steady numbers.",
-"Feral cats from the reserve are a real pressure on the bandicoots and lyrebirds the Main Ridge Landcare groups are trying to protect; we take a careful, positive-ID-only approach on bordering properties.",
-"Main Ridge Road, Shands Road and Purves Road properties are generally large enough that the Public Place Permit is not required, which means we can book quickly."
-]
-},
-{
-"slug": "feral-control-balnarring",
-"group": "Towns",
-"nav": "Balnarring",
-"service": "Feral animal control",
-"area": "Balnarring, Victoria",
-"title": "Feral Animal Control Balnarring | Horse Properties & Hobby Farms",
-"desc": "Fox, rabbit and rat control for Balnarring, Merricks and Bittern horse properties and hobby farms. Bait-free, safe around horses and dogs.",
-"h1": "Feral control <em>Balnarring.</em>",
-"eyebrow": "Balnarring · Merricks · Bittern",
-"lede": "Balnarring and Merricks are horse country. Foxes around foaling paddocks, rabbits undermining arenas and rats in feed rooms are the three calls we get most from here.",
-"h2": "Horse-property work",
-"paras": [
-"Baits are not an option on a horse property, so everything we do is shooting-based. Night fox sessions run around the outside of the paddocks with thermal, worked well away from stock with a clear backstop.",
-"Rat shooting in stables and feed sheds is a two-hour evening visit and can be bundled with a fox night for a reduced rate.",
-"The flat sandy ground around Balnarring, Merricks North and Bittern holds large warrens; those are worked for ripping once numbers are down."
-]
-},
-{
-"slug": "feral-control-flinders",
-"group": "Towns",
-"nav": "Flinders",
-"service": "Feral animal control",
-"area": "Flinders, Victoria",
-"title": "Feral Animal Control Flinders | Foxes, Rabbits & Deer",
-"desc": "Professional fox, rabbit and deer control for Flinders, Shoreham and Cape Schanck farms and coastal acreage. Licensed and insured.",
-"h1": "Feral control <em>Flinders.</em>",
-"eyebrow": "Flinders · Shoreham · Cape Schanck",
-"lede": "The exposed grazing country between Flinders and Cape Schanck has serious rabbit numbers and fox pressure on the sheep and cattle operations that still run here.",
-"h2": "Open-country shooting",
-"paras": [
-"The larger holdings along Boneo Road, Meakins Road and the Cape Schanck coast suit open thermal shooting from a vehicle: rabbits in the hundreds on a good night, foxes along the coastal scrub edge.",
-"Hooded plover and bandicoot programs on the Mornington Peninsula National Park coast mean fox and cat control on neighbouring private land makes a real difference, and conservation groups will often put you in touch with us.",
-"Deer are increasing around Flinders from the national park and Main Ridge; we add dawn deer sessions to the program where sign is found."
-]
-},
-{
-"slug": "feral-control-hastings",
-"group": "Towns",
-"nav": "Hastings",
-"service": "Feral animal control",
-"area": "Hastings, Victoria",
-"title": "Feral Animal Control Hastings & Tyabb | Foxes, Rabbits, Rats",
-"desc": "Fox, rabbit and rat control for Hastings, Tyabb and Somerville hobby farms, industrial sites and Westernport properties. Public Place Permit held.",
-"h1": "Feral control <em>Hastings.</em>",
-"eyebrow": "Hastings · Tyabb · Somerville",
-"lede": "Westernport's mangroves and the Hastings industrial fringe are a fox highway. Properties from Tyabb down to Bittern see them every night.",
-"h2": "Westernport-side work",
-"paras": [
-"Hobby farms along Tyabb-Tooradin Road and Graydens Road, and the industrial yards around Hastings, book us for foxes raiding poultry and for rats in sheds and stockpiles.",
-"Many of these blocks are small and close to the town boundary, so our Public Place Permit is what makes it legal for us to work here where a recreational shooter cannot.",
-"The Westernport foreshore reserves carry wader and fairy tern colonies; fox control on the private land behind them is some of the most useful work we do."
-]
-},
-{
-"slug": "feral-control-rosebud",
-"group": "Towns",
-"nav": "Rosebud",
-"service": "Feral animal control",
-"area": "Rosebud, Victoria",
-"title": "Feral Animal Control Rosebud & Dromana | Rabbits, Foxes, Deer",
-"desc": "Rabbit, fox and deer control for Rosebud, Dromana, Boneo and Arthurs Seat properties. Thermal shooting, first night free.",
-"h1": "Feral control <em>Rosebud.</em>",
-"eyebrow": "Rosebud · Dromana · Boneo",
-"lede": "Behind Rosebud and Dromana the land climbs to Arthurs Seat and opens onto the Boneo flats, two very different problems: deer up the hill and rabbits in the sand.",
-"h2": "Hill and flat",
-"paras": [
-"The Boneo and Rosebud South market-garden and turf-farm country has the heaviest rabbit numbers on the Peninsula. Open thermal shooting from a vehicle moves big numbers quickly, and warrens in the sand hills are worked for ripping.",
-"Up on Arthurs Seat and in the Dromana hinterland, fallow deer come out of the state park onto small vineyards and lifestyle blocks. Dawn and dusk deer sessions suit these properties.",
-"The Public Place Permit covers the semi-rural blocks close to the Rosebud and Dromana township boundaries where most of the fox calls come from."
-]
-},
-{
-"slug": "feral-control-mount-eliza",
-"group": "Towns",
-"nav": "Mount Eliza",
-"service": "Feral animal control",
-"area": "Mount Eliza, Victoria",
-"title": "Fox & Rabbit Control Mount Eliza | Lifestyle Acreage",
-"desc": "Permitted fox and rabbit control for Mount Eliza and Moorooduc lifestyle acreage close to houses. Precise thermal work.",
-"h1": "Feral control <em>Mount Eliza.</em>",
-"eyebrow": "Mount Eliza · Moorooduc · Baxter",
-"lede": "Mount Eliza's larger blocks along Humphries Road and the Moorooduc side back onto bush, and the foxes there are bold enough to take chooks in daylight.",
-"h2": "Shooting near houses, done properly",
-"paras": [
-"This is the most built-up area we work in, and almost every job needs the Public Place Permit. We plan the night at a daytime assessment and notify Mornington police before every session.",
-"Thermal optics and careful shot placement mean a controlled, low-disturbance operation, planned at a daytime assessment.",
-"Rabbits on the sandy soils around Baxter and Moorooduc hit gardens and horse paddocks; we treat them the same way, with warrens worked for follow-up."
-]
-},
-{
-"slug": "feral-control-dromana",
-"group": "Towns",
-"nav": "Dromana",
-"service": "Feral animal control",
-"area": "Dromana, Victoria",
-"title": "Feral Animal Control Dromana & Safety Beach | Deer & Foxes",
-"desc": "Deer and fox control for Dromana, Safety Beach and Arthurs Seat hinterland properties. Licensed, insured, carcass removal included.",
-"h1": "Feral control <em>Dromana.</em>",
-"eyebrow": "Dromana · Safety Beach · Arthurs Seat",
-"lede": "The Dromana hinterland below Arthurs Seat has the Peninsula's most visible deer problem, with animals on the roads most nights.",
-"h2": "Deer below the Seat",
-"paras": [
-"Fallow deer leave Arthurs Seat State Park at dusk and feed on the vineyards and acreage along Nepean Highway's inland side. We work the bush boundary with clear backstops and remove carcasses.",
-"Smaller blocks closer to Safety Beach and the Dromana township need the Public Place Permit, which we hold.",
-"Foxes along the Dromana foreshore and the creek lines behind it are controlled with night thermal sessions timed to poultry and lamb losses."
-]
-},
-{
-"slug": "feral-control-somers",
-"group": "Towns",
-"nav": "Somers",
-"service": "Feral animal control",
-"area": "Somers, Victoria",
-"title": "Feral Animal Control Somers & Balnarring Beach | Foxes & Cats",
-"desc": "Fox and feral cat control for Somers, Balnarring Beach and Merricks Beach properties bordering the Westernport foreshore reserves.",
-"h1": "Feral control <em>Somers.</em>",
-"eyebrow": "Somers · Balnarring Beach · Merricks Beach",
-"lede": "Somers and the beach villages back onto foreshore reserve and the Coolart wetlands, which is exactly where foxes and feral cats do the most damage to native birds.",
-"h2": "Foreshore-edge properties",
-"paras": [
-"Foxes and cats work the foreshore reserve at night and come onto private land behind it. Controlling them on the acreage along Sandy Point Road and Lord Somers Road takes pressure off the hooded plover and bandicoot populations.",
-"Coolart Wetlands and the Somers Landcare group run their own programs on public land; we complement them on the private side.",
-"Properties here are mostly small, so the Public Place Permit applies and police are notified before each session."
-]
-},
-{
-"slug": "vineyard-pest-control-mornington-peninsula",
-"group": "Property types",
-"nav": "Vineyards",
-"service": "Vineyard deer and rabbit control",
-"title": "Vineyard Deer & Rabbit Control | Mornington Peninsula Wineries",
-"desc": "Deer, rabbit and fox control for Mornington Peninsula vineyards. Monthly programs through budburst, carcass removal, no baits near product.",
-"h1": "Vineyard pest control <em>Mornington Peninsula.</em>",
-"eyebrow": "Vineyards & wineries",
-"lede": "Deer strip shoots and wreck netting; rabbits ring-bark young vines. Peninsula growers lose fruit to both every season, and baiting near the cellar door is a non-starter.",
-"h2": "A season-long program",
-"paras": [
-"The damage window runs from budburst to veraison, so the monthly program is built around it: deer sessions at dusk along the bush boundary, rabbit nights through spring while vines are establishing, and a fox night before any lambs or chooks on the property are at risk.",
-"We work after cellar-door hours and can time visits around functions and harvest crews.",
-"Carcasses are removed, warrens worked so the vineyard crew can rip them, and you get a straight count of what was taken after each visit."
-]
-},
-{
-"slug": "horse-property-pest-control-mornington-peninsula",
-"group": "Property types",
-"nav": "Horse properties",
-"service": "Horse property fox and rat control",
-"title": "Fox & Rat Control for Horse Properties | Mornington Peninsula",
-"desc": "Bait-free fox and rat control for Mornington Peninsula horse properties, agistment and equestrian centres. Safe around horses, dogs and owls.",
-"h1": "Pest control for <em>horse properties.</em>",
-"eyebrow": "Equestrian & agistment",
-"lede": "Foxes around foaling paddocks, rats in feed rooms and rabbits undermining arenas and tracks. None of it can be baited on a horse property, and that is what we are set up for.",
-"h2": "Built around horses",
-"paras": [
-"Fox nights run around the outside of the paddocks with thermal optics, well away from stock. We never shoot across a paddock with animals in it, so horses settle quickly.",
-"Rat shooting inside stable blocks and feed sheds is a two-hour evening job with air rifles and subsonic .22, and it is the most common booking from Balnarring, Merricks and Moorooduc agistment properties.",
-"Rabbit warrens under arenas, tracks and fence lines are dealt with so you can have them ripped before the surface collapses."
-]
-},
-{
-"slug": "hobby-farm-pest-control-mornington-peninsula",
-"group": "Property types",
-"nav": "Hobby farms",
-"service": "Hobby farm feral control",
-"title": "Hobby Farm Fox & Rabbit Control | Mornington Peninsula",
-"desc": "Fox, rabbit and feral cat control for Mornington Peninsula hobby farms with sheep, goats, alpacas and poultry. First night free, then $400.",
-"h1": "Feral control for <em>hobby farms.</em>",
-"eyebrow": "Sheep, goats, alpacas & poultry",
-"lede": "Five to fifty acres with a few sheep, some goats or alpacas and a chook run is the classic Peninsula hobby farm, and it is a fox's favourite place.",
-"h2": "Small blocks, real losses",
-"paras": [
-"A single fox can take a hobby farm's entire lamb drop in a fortnight. We time the first night before lambing or kidding and recommend a second visit a few weeks later.",
-"Small blocks near neighbours need the Public Place Permit; we hold it and handle the police notification, so you are not asking a mate with a rifle to do something he is not permitted to do.",
-"Rabbits and feral cats are dealt with on the same visit. The first night is free, so you can see the tally before committing to anything."
-]
-},
-{
-"slug": "acreage-pest-control-mornington-peninsula",
-"group": "Property types",
-"nav": "Lifestyle acreage",
-"service": "Lifestyle acreage feral control",
-"title": "Feral Control for Lifestyle Acreage | Mornington Peninsula",
-"desc": "Permitted fox, rabbit and deer control for Mornington Peninsula lifestyle acreage close to houses. Precise thermal work.",
-"h1": "Feral control for <em>lifestyle acreage.</em>",
-"eyebrow": "Lifestyle blocks near town",
-"lede": "Two to ten acres with a house, a garden being eaten by rabbits, a fox taking the chooks and deer in the orchard. These blocks are too close to neighbours for most shooters to touch.",
-"h2": "What the permit means for you",
-"paras": [
-"A Victoria Police Public Place Permit lets us carry and use firearms on private land in built-up and semi-rural areas, something a recreational shooter cannot legally do. We notify the local police station before each session.",
-"Everything is thermal and carefully placed, and nothing is left on the ground afterwards.",
-"Most lifestyle-block jobs are one or two nights a year, timed to spring lambing on nearby farms when foxes are busiest, plus a rabbit night when the garden starts to suffer."
-]
-},
-{
-"slug": "commercial-farm-pest-control-mornington-peninsula",
-"group": "Property types",
-"nav": "Commercial farms",
-"service": "Commercial farm feral control",
-"title": "Commercial Farm & Grazing Pest Control | Mornington Peninsula",
-"desc": "Fox, rabbit and deer control for Mornington Peninsula commercial farms, graziers and livestock operations. Scheduled programs, thermal night shooting, fully licensed and insured.",
-"h1": "Commercial farm pest control <em>Mornington Peninsula.</em>",
-"eyebrow": "Commercial & broadacre farms",
-"h2": "Feral control at a working-farm scale",
-"lede": "Sheep and cattle graziers, cropping blocks and mixed farms across the Peninsula lose stock and pasture to foxes, rabbits and deer every season. We run scheduled control programs sized for a working operation, not a one-off callout.",
-"paras": [
-"Fox predation on lambs, rabbit damage to pasture and fodder crops, and deer breaking fences and grazing feed all cost a commercial operation real money. We build a program around your calendar: heavier work before and during lambing and calving, rabbit control through the growing season, and deer along the bush boundaries year-round.",
-"Every job is covered by public liability insurance and run under the right firearms licence and, where blocks sit close to roads or houses, a Victoria Police Public Place Permit.",
-"For larger holdings and multi-property operations we quote a per-hectare or per-program rate rather than a per-visit fee, and can coordinate with your existing baiting, ripping and fencing contractors so the whole control effort works together."
-]
-},
-{
-"slug": "orchard-market-garden-pest-control-mornington-peninsula",
-"group": "Property types",
-"nav": "Orchards & market gardens",
-"service": "Orchard and market garden feral control",
-"title": "Orchard & Market Garden Pest Control | Mornington Peninsula",
-"desc": "Rabbit, deer and fox control for Mornington Peninsula orchards, market gardens and turf farms. Bait-free around produce, scheduled programs, licensed and insured.",
-"h1": "Orchard & market garden pest control <em>Mornington Peninsula.</em>",
-"eyebrow": "Orchards, market gardens & turf",
-"h2": "Control that works around produce",
-"lede": "The apple and cherry orchards, market gardens and turf farms of the Peninsula lose young trees, seedlings and turf to rabbits and deer, and poultry and ground crops to foxes. Baiting near produce is a non-starter, so shooting is the fit.",
-"paras": [
-"Rabbits ring-bark young fruit trees and strip seedling beds; deer browse new growth and trample turf; foxes raid free-range poultry and dig in soft ground. Thermal night shooting is target-specific, leaves nothing in the soil or on the produce, and can be timed around picking and planting.",
-"We work after hours and around harvest crews, remove deer carcasses, and work rabbit warrens so they can be ripped or fumigated between rotations. Nothing we use is a residue or food-safety concern near crops.",
-"The Boneo, Rosebud South and Main Ridge growing country is where we see the heaviest pressure. Most growers run a monthly program through the growing season with extra visits when damage spikes."
-]
-}
+ {
+  "slug": "fox-control-mornington-peninsula",
+  "group": "Services",
+  "nav": "Fox control",
+  "service": "Fox control",
+  "title": "Fox Control Mornington Peninsula | Thermal Shooting, No Baits",
+  "desc": "Professional fox shooting on the Mornington Peninsula. Thermal night sessions timed to lambing and poultry losses, no 1080 baits, first night free.",
+  "h1": "Fox control <em>Mornington Peninsula.</em>",
+  "eyebrow": "Fox control",
+  "lede": "Foxes take lambs, kids, chooks and ground-nesting birds right across the Peninsula, and baiting is off the table on most blocks because of dogs and neighbours. Thermal shooting is the alternative that works close to houses.",
+  "h2": "Why shooting beats baiting here",
+  "paras": [
+   "Most Peninsula properties are too close to neighbours, pets and public land to lay 1080 or PAPP safely. Shooting is target-specific: every fox is identified through a thermal scope before a shot is taken, and nothing is left in the paddock for a dog to find.",
+   "We time sessions to when foxes are most active and most damaging. On the Peninsula that is late winter and spring during lambing and kidding, and again in autumn when the year's cubs disperse and start raiding poultry runs. A single night rarely finishes the job, so the first visit sets up a follow-up a few weeks later.",
+   "We point out any dens we find so you or your fencing contractor can collapse them later. For properties with repeated losses we recommend the monthly program, which keeps pressure on the population through the whole lambing season."
+  ]
+ },
+ {
+  "slug": "rabbit-control-mornington-peninsula",
+  "group": "Services",
+  "nav": "Rabbit control",
+  "service": "Rabbit control",
+  "title": "Rabbit Control Mornington Peninsula | Thermal Night Shooting",
+  "desc": "Thermal rabbit shooting for Peninsula vineyards, hobby farms and acreage. Small-calibre, bait-free, first night free.",
+  "h1": "Rabbit control <em>Mornington Peninsula.</em>",
+  "eyebrow": "Rabbit control",
+  "lede": "Rabbits ring-bark young vines, undermine dam walls and strip pasture on the sandy soils of the southern Peninsula. Small-calibre thermal shooting knocks numbers down fast.",
+  "h2": "Shooting as part of a rabbit program",
+  "paras": [
+   "Rabbits breed faster than any shooter can remove them, so shooting works best as the first hit and the follow-up to warren destruction. We shoot small-calibre .22 and .17 with thermal optics, carefully placed so we can work close to sheds, dams and vineyard rows.",
+   "Any warren we find, we point out to you on the night, so you can hand it to a ripping contractor or fumigate it and deal with the problem at its source.",
+   "Vineyard rows, dam banks, sand hills behind Rye and Fingal, and the bush edges at Boneo and Cape Schanck are where we see the heaviest numbers. Monthly visits through spring keep young vines protected while they establish."
+  ]
+ },
+ {
+  "slug": "deer-control-mornington-peninsula",
+  "group": "Services",
+  "nav": "Deer control",
+  "service": "Deer control",
+  "title": "Deer Control Mornington Peninsula | Fallow, Red & Hog Deer",
+  "desc": "Licensed deer control for Mornington Peninsula vineyards, orchards and acreage. Dawn and dusk sessions, carcass removal, Game Licence held.",
+  "h1": "Deer control <em>Mornington Peninsula.</em>",
+  "eyebrow": "Deer control",
+  "lede": "Fallow, red and hog deer are now established around Arthurs Seat, Red Hill, Main Ridge and the Westernport bush. They flatten fences, strip vines and cause night-time road accidents.",
+  "h2": "What deer control involves",
+  "paras": [
+   "Deer are unprotected on private land in Victoria, so landholders can authorise control. We hold a Victorian Game Licence and the firearms endorsements for professional feral control, and we handle the landholder authority paperwork for you.",
+   "Sessions run at dawn or dusk, when deer move between bush cover and feed. We use larger-calibre rifles with thermal spotting, choose shot positions with clear backstops, and remove or dress carcasses on site depending on what you want done with the meat.",
+   "Where a property has a steady deer population and the owner is happy for regular visits, control can often be done at no charge in exchange for harvesting. Ask about it at the assessment."
+  ]
+ },
+ {
+  "slug": "feral-cat-control-mornington-peninsula",
+  "group": "Services",
+  "nav": "Feral cat control",
+  "service": "Feral cat control",
+  "title": "Feral Cat Control Mornington Peninsula | Positive ID Only",
+  "desc": "Responsible feral cat control on bush-edge properties across the Mornington Peninsula. Thermal identification, no pets targeted, Shire rules followed.",
+  "h1": "Feral cat control <em>Mornington Peninsula.</em>",
+  "eyebrow": "Feral cat control",
+  "lede": "Feral cats on the Peninsula take bandicoots, hooded plover chicks and reptiles, and they raid aviaries and chook pens. Control has to be careful, because owned cats roam too.",
+  "h2": "How we keep it responsible",
+  "paras": [
+   "No cat is shot without positive identification as feral: no collar, no ear tag, in bushland well away from houses, and usually seen repeatedly on the same property. If there is any doubt the animal is left alone and we tell you.",
+   "Feral cat work suits bush-edge properties bordering reserves, such as those around the Mornington Peninsula National Park, Greens Bush, Devilbend and the Westernport foreshore, where cat predation on native wildlife is heaviest.",
+   "We follow Mornington Peninsula Shire's cat rules and can combine shooting with cage trapping where a property is too close to neighbours for shooting alone."
+  ]
+ },
+ {
+  "slug": "rat-control-mornington-peninsula",
+  "group": "Services",
+  "nav": "Rat control",
+  "service": "Rat and rodent control",
+  "title": "Rat Control for Stables, Sheds & Chook Pens | Mornington Peninsula",
+  "desc": "Bait-free rat shooting for Peninsula stables, hay sheds, feed rooms and poultry runs. Safe around horses, dogs and owls.",
+  "h1": "Rat control <em>without baits.</em>",
+  "eyebrow": "Rat control",
+  "lede": "Rat baits kill owls, dogs and the occasional horse on Peninsula properties every year. Air rifle and subsonic .22 shooting clears a shed in an evening with nothing left behind.",
+  "h2": "Where bait-free rat control makes sense",
+  "paras": [
+   "Horse properties are the main callers: feed rooms, hay sheds and stable blocks draw rats, and owners do not want anticoagulant baits anywhere near their animals or the barn owls that hunt the paddocks.",
+   "We shoot with air rifles and subsonic .22 from inside the building, using thermal and infrared to pick rats out of rafters and hay stacks. A two-hour evening visit usually removes the bulk of an infestation; we then advise on grain storage and gaps so they do not return.",
+   "This service is also booked by hobby farms with chook runs, and by wineries with barrel sheds where baits are not acceptable near product."
+  ]
+ },
+ {
+  "slug": "feral-control-mornington",
+  "group": "Towns",
+  "nav": "Mornington",
+  "service": "Feral animal control",
+  "area": "Mornington, Victoria",
+  "title": "Feral Animal Control Mornington | Foxes, Rabbits, Deer & Cats",
+  "desc": "Professional fox, rabbit, deer and feral cat control around Mornington, Mount Martha and Moorooduc. Permitted for semi-rural blocks near town. First night free.",
+  "h1": "Feral control <em>Mornington.</em>",
+  "eyebrow": "Mornington · Mount Martha · Moorooduc",
+  "lede": "The lifestyle blocks between Mornington, Moorooduc and Tuerong sit right against bushland corridors, and foxes and rabbits move freely between them.",
+  "h2": "Working on blocks close to town",
+  "paras": [
+   "Properties off Bungower Road, Tuerong Road and around the Moorooduc Highway are close enough to houses that most shooters cannot legally work there. We hold a Victoria Police Public Place Permit for exactly this situation, and we notify Mornington police before every session.",
+   "Foxes in this area raid poultry runs and take lambs on the smaller hobby farms; rabbits are heaviest on the sandy rises and along the Balcombe Creek corridor.",
+   "We also handle deer coming down from the Mount Martha and Devilbend bush onto vineyards and orchards along the Moorooduc plain."
+  ]
+ },
+ {
+  "slug": "feral-control-red-hill",
+  "group": "Towns",
+  "nav": "Red Hill",
+  "service": "Feral animal control",
+  "area": "Red Hill, Victoria",
+  "title": "Feral Animal Control Red Hill | Vineyards & Orchards",
+  "desc": "Deer, fox and rabbit control for Red Hill and Red Hill South vineyards, orchards and acreage. Licensed, insured, precise thermal shooting.",
+  "h1": "Feral control <em>Red Hill.</em>",
+  "eyebrow": "Red Hill · Red Hill South · Arthurs Seat",
+  "lede": "Red Hill's vineyards and apple orchards sit under Arthurs Seat and the Mornington Peninsula National Park, which is where the deer and foxes come from.",
+  "h2": "Deer and rabbits in the vines",
+  "paras": [
+   "Fallow and hog deer are the main problem around Red Hill: broken trellis, stripped shoots in spring and trampled netting. Dawn and dusk sessions along the bush boundary are the most effective, and most growers combine them with a monthly program through budburst.",
+   "Rabbits on the volcanic soils here are fewer than on the sandy southern Peninsula but hit young vines hard. We work the warrens along fence lines and dam banks so the vineyard crew can rip them.",
+   "Red Hill properties are often small, steep and close to neighbours, so every job is planned at a daytime assessment with firing lanes and backstops worked out before we return at night."
+  ]
+ },
+ {
+  "slug": "feral-control-main-ridge",
+  "group": "Towns",
+  "nav": "Main Ridge",
+  "service": "Feral animal control",
+  "area": "Main Ridge, Victoria",
+  "title": "Feral Animal Control Main Ridge | Deer & Fox Shooting",
+  "desc": "Professional deer, fox and feral cat control for Main Ridge properties bordering Greens Bush and the national park. First night free.",
+  "h1": "Feral control <em>Main Ridge.</em>",
+  "eyebrow": "Main Ridge · Greens Bush · Shoreham",
+  "lede": "Main Ridge backs onto Greens Bush, the largest bush block on the Peninsula, so properties here carry more deer and feral cats than anywhere else nearby.",
+  "h2": "Bush-edge properties",
+  "paras": [
+   "Deer move out of Greens Bush onto Main Ridge pasture and vineyards every evening. We work the bush boundary at dusk and dawn, with carcass removal included, and can set up a regular harvesting arrangement for properties with steady numbers.",
+   "Feral cats from the reserve are a real pressure on the bandicoots and lyrebirds the Main Ridge Landcare groups are trying to protect; we take a careful, positive-ID-only approach on bordering properties.",
+   "Main Ridge Road, Shands Road and Purves Road properties are generally large enough that the Public Place Permit is not required, which means we can book quickly."
+  ]
+ },
+ {
+  "slug": "feral-control-balnarring",
+  "group": "Towns",
+  "nav": "Balnarring",
+  "service": "Feral animal control",
+  "area": "Balnarring, Victoria",
+  "title": "Feral Animal Control Balnarring | Horse Properties & Hobby Farms",
+  "desc": "Fox, rabbit and rat control for Balnarring, Merricks and Bittern horse properties and hobby farms. Bait-free, safe around horses and dogs.",
+  "h1": "Feral control <em>Balnarring.</em>",
+  "eyebrow": "Balnarring · Merricks · Bittern",
+  "lede": "Balnarring and Merricks are horse country. Foxes around foaling paddocks, rabbits undermining arenas and rats in feed rooms are the three calls we get most from here.",
+  "h2": "Horse-property work",
+  "paras": [
+   "Baits are not an option on a horse property, so everything we do is shooting-based. Night fox sessions run around the outside of the paddocks with thermal, worked well away from stock with a clear backstop.",
+   "Rat shooting in stables and feed sheds is a two-hour evening visit and can be bundled with a fox night for a reduced rate.",
+   "The flat sandy ground around Balnarring, Merricks North and Bittern holds large warrens; those are worked for ripping once numbers are down."
+  ]
+ },
+ {
+  "slug": "feral-control-flinders",
+  "group": "Towns",
+  "nav": "Flinders",
+  "service": "Feral animal control",
+  "area": "Flinders, Victoria",
+  "title": "Feral Animal Control Flinders | Foxes, Rabbits & Deer",
+  "desc": "Professional fox, rabbit and deer control for Flinders, Shoreham and Cape Schanck farms and coastal acreage. Licensed and insured.",
+  "h1": "Feral control <em>Flinders.</em>",
+  "eyebrow": "Flinders · Shoreham · Cape Schanck",
+  "lede": "The exposed grazing country between Flinders and Cape Schanck has serious rabbit numbers and fox pressure on the sheep and cattle operations that still run here.",
+  "h2": "Open-country shooting",
+  "paras": [
+   "The larger holdings along Boneo Road, Meakins Road and the Cape Schanck coast suit open thermal shooting from a vehicle: rabbits in the hundreds on a good night, foxes along the coastal scrub edge.",
+   "Hooded plover and bandicoot programs on the Mornington Peninsula National Park coast mean fox and cat control on neighbouring private land makes a real difference, and conservation groups will often put you in touch with us.",
+   "Deer are increasing around Flinders from the national park and Main Ridge; we add dawn deer sessions to the program where sign is found."
+  ]
+ },
+ {
+  "slug": "feral-control-hastings",
+  "group": "Towns",
+  "nav": "Hastings",
+  "service": "Feral animal control",
+  "area": "Hastings, Victoria",
+  "title": "Feral Animal Control Hastings & Tyabb | Foxes, Rabbits, Rats",
+  "desc": "Fox, rabbit and rat control for Hastings, Tyabb and Somerville hobby farms, industrial sites and Westernport properties. Public Place Permit held.",
+  "h1": "Feral control <em>Hastings.</em>",
+  "eyebrow": "Hastings · Tyabb · Somerville",
+  "lede": "Westernport's mangroves and the Hastings industrial fringe are a fox highway. Properties from Tyabb down to Bittern see them every night.",
+  "h2": "Westernport-side work",
+  "paras": [
+   "Hobby farms along Tyabb-Tooradin Road and Graydens Road, and the industrial yards around Hastings, book us for foxes raiding poultry and for rats in sheds and stockpiles.",
+   "Many of these blocks are small and close to the town boundary, so our Public Place Permit is what makes it legal for us to work here where a recreational shooter cannot.",
+   "The Westernport foreshore reserves carry wader and fairy tern colonies; fox control on the private land behind them is some of the most useful work we do."
+  ]
+ },
+ {
+  "slug": "feral-control-rosebud",
+  "group": "Towns",
+  "nav": "Rosebud",
+  "service": "Feral animal control",
+  "area": "Rosebud, Victoria",
+  "title": "Feral Animal Control Rosebud & Dromana | Rabbits, Foxes, Deer",
+  "desc": "Rabbit, fox and deer control for Rosebud, Dromana, Boneo and Arthurs Seat properties. Thermal shooting, first night free.",
+  "h1": "Feral control <em>Rosebud.</em>",
+  "eyebrow": "Rosebud · Dromana · Boneo",
+  "lede": "Behind Rosebud and Dromana the land climbs to Arthurs Seat and opens onto the Boneo flats, two very different problems: deer up the hill and rabbits in the sand.",
+  "h2": "Hill and flat",
+  "paras": [
+   "The Boneo and Rosebud South market-garden and turf-farm country has the heaviest rabbit numbers on the Peninsula. Open thermal shooting from a vehicle moves big numbers quickly, and warrens in the sand hills are worked for ripping.",
+   "Up on Arthurs Seat and in the Dromana hinterland, fallow deer come out of the state park onto small vineyards and lifestyle blocks. Dawn and dusk deer sessions suit these properties.",
+   "The Public Place Permit covers the semi-rural blocks close to the Rosebud and Dromana township boundaries where most of the fox calls come from."
+  ]
+ },
+ {
+  "slug": "feral-control-mount-eliza",
+  "group": "Towns",
+  "nav": "Mount Eliza",
+  "service": "Feral animal control",
+  "area": "Mount Eliza, Victoria",
+  "title": "Fox & Rabbit Control Mount Eliza | Lifestyle Acreage",
+  "desc": "Permitted fox and rabbit control for Mount Eliza and Moorooduc lifestyle acreage close to houses. Precise thermal work.",
+  "h1": "Feral control <em>Mount Eliza.</em>",
+  "eyebrow": "Mount Eliza · Moorooduc · Baxter",
+  "lede": "Mount Eliza's larger blocks along Humphries Road and the Moorooduc side back onto bush, and the foxes there are bold enough to take chooks in daylight.",
+  "h2": "Shooting near houses, done properly",
+  "paras": [
+   "This is the most built-up area we work in, and almost every job needs the Public Place Permit. We plan the night at a daytime assessment and notify Mornington police before every session.",
+   "Thermal optics and careful shot placement mean a controlled, low-disturbance operation, planned at a daytime assessment.",
+   "Rabbits on the sandy soils around Baxter and Moorooduc hit gardens and horse paddocks; we treat them the same way, with warrens worked for follow-up."
+  ]
+ },
+ {
+  "slug": "feral-control-dromana",
+  "group": "Towns",
+  "nav": "Dromana",
+  "service": "Feral animal control",
+  "area": "Dromana, Victoria",
+  "title": "Feral Animal Control Dromana & Safety Beach | Deer & Foxes",
+  "desc": "Deer and fox control for Dromana, Safety Beach and Arthurs Seat hinterland properties. Licensed, insured, carcass removal included.",
+  "h1": "Feral control <em>Dromana.</em>",
+  "eyebrow": "Dromana · Safety Beach · Arthurs Seat",
+  "lede": "The Dromana hinterland below Arthurs Seat has the Peninsula's most visible deer problem, with animals on the roads most nights.",
+  "h2": "Deer below the Seat",
+  "paras": [
+   "Fallow deer leave Arthurs Seat State Park at dusk and feed on the vineyards and acreage along Nepean Highway's inland side. We work the bush boundary with clear backstops and remove carcasses.",
+   "Smaller blocks closer to Safety Beach and the Dromana township need the Public Place Permit, which we hold.",
+   "Foxes along the Dromana foreshore and the creek lines behind it are controlled with night thermal sessions timed to poultry and lamb losses."
+  ]
+ },
+ {
+  "slug": "feral-control-somers",
+  "group": "Towns",
+  "nav": "Somers",
+  "service": "Feral animal control",
+  "area": "Somers, Victoria",
+  "title": "Feral Animal Control Somers & Balnarring Beach | Foxes & Cats",
+  "desc": "Fox and feral cat control for Somers, Balnarring Beach and Merricks Beach properties bordering the Westernport foreshore reserves.",
+  "h1": "Feral control <em>Somers.</em>",
+  "eyebrow": "Somers · Balnarring Beach · Merricks Beach",
+  "lede": "Somers and the beach villages back onto foreshore reserve and the Coolart wetlands, which is exactly where foxes and feral cats do the most damage to native birds.",
+  "h2": "Foreshore-edge properties",
+  "paras": [
+   "Foxes and cats work the foreshore reserve at night and come onto private land behind it. Controlling them on the acreage along Sandy Point Road and Lord Somers Road takes pressure off the hooded plover and bandicoot populations.",
+   "Coolart Wetlands and the Somers Landcare group run their own programs on public land; we complement them on the private side.",
+   "Properties here are mostly small, so the Public Place Permit applies and police are notified before each session."
+  ]
+ },
+ {
+  "slug": "vineyard-pest-control-mornington-peninsula",
+  "group": "Property types",
+  "nav": "Vineyards",
+  "service": "Vineyard deer and rabbit control",
+  "title": "Vineyard Deer & Rabbit Control | Mornington Peninsula Wineries",
+  "desc": "Deer, rabbit and fox control for Mornington Peninsula vineyards. Monthly programs through budburst, carcass removal, no baits near product.",
+  "h1": "Vineyard pest control <em>Mornington Peninsula.</em>",
+  "eyebrow": "Vineyards & wineries",
+  "lede": "Deer strip shoots and wreck netting; rabbits ring-bark young vines. Peninsula growers lose fruit to both every season, and baiting near the cellar door is a non-starter.",
+  "h2": "A season-long program",
+  "paras": [
+   "The damage window runs from budburst to veraison, so the monthly program is built around it: deer sessions at dusk along the bush boundary, rabbit nights through spring while vines are establishing, and a fox night before any lambs or chooks on the property are at risk.",
+   "We work after cellar-door hours and can time visits around functions and harvest crews.",
+   "Carcasses are removed, warrens worked so the vineyard crew can rip them, and you get a straight count of what was taken after each visit."
+  ]
+ },
+ {
+  "slug": "horse-property-pest-control-mornington-peninsula",
+  "group": "Property types",
+  "nav": "Horse properties",
+  "service": "Horse property fox and rat control",
+  "title": "Fox & Rat Control for Horse Properties | Mornington Peninsula",
+  "desc": "Bait-free fox and rat control for Mornington Peninsula horse properties, agistment and equestrian centres. Safe around horses, dogs and owls.",
+  "h1": "Pest control for <em>horse properties.</em>",
+  "eyebrow": "Equestrian & agistment",
+  "lede": "Foxes around foaling paddocks, rats in feed rooms and rabbits undermining arenas and tracks. None of it can be baited on a horse property, and that is what we are set up for.",
+  "h2": "Built around horses",
+  "paras": [
+   "Fox nights run around the outside of the paddocks with thermal optics, well away from stock. We never shoot across a paddock with animals in it, so horses settle quickly.",
+   "Rat shooting inside stable blocks and feed sheds is a two-hour evening job with air rifles and subsonic .22, and it is the most common booking from Balnarring, Merricks and Moorooduc agistment properties.",
+   "Rabbit warrens under arenas, tracks and fence lines are dealt with so you can have them ripped before the surface collapses."
+  ]
+ },
+ {
+  "slug": "hobby-farm-pest-control-mornington-peninsula",
+  "group": "Property types",
+  "nav": "Hobby farms",
+  "service": "Hobby farm feral control",
+  "title": "Hobby Farm Fox & Rabbit Control | Mornington Peninsula",
+  "desc": "Fox, rabbit and feral cat control for Mornington Peninsula hobby farms with sheep, goats, alpacas and poultry. First night free, then $400.",
+  "h1": "Feral control for <em>hobby farms.</em>",
+  "eyebrow": "Sheep, goats, alpacas & poultry",
+  "lede": "Five to fifty acres with a few sheep, some goats or alpacas and a chook run is the classic Peninsula hobby farm, and it is a fox's favourite place.",
+  "h2": "Small blocks, real losses",
+  "paras": [
+   "A single fox can take a hobby farm's entire lamb drop in a fortnight. We time the first night before lambing or kidding and recommend a second visit a few weeks later.",
+   "Small blocks near neighbours need the Public Place Permit; we hold it and handle the police notification, so you are not asking a mate with a rifle to do something he is not permitted to do.",
+   "Rabbits and feral cats are dealt with on the same visit. The first night is free, so you can see the tally before committing to anything."
+  ]
+ },
+ {
+  "slug": "acreage-pest-control-mornington-peninsula",
+  "group": "Property types",
+  "nav": "Lifestyle acreage",
+  "service": "Lifestyle acreage feral control",
+  "title": "Feral Control for Lifestyle Acreage | Mornington Peninsula",
+  "desc": "Permitted fox, rabbit and deer control for Mornington Peninsula lifestyle acreage close to houses. Precise thermal work.",
+  "h1": "Feral control for <em>lifestyle acreage.</em>",
+  "eyebrow": "Lifestyle blocks near town",
+  "lede": "Two to ten acres with a house, a garden being eaten by rabbits, a fox taking the chooks and deer in the orchard. These blocks are too close to neighbours for most shooters to touch.",
+  "h2": "What the permit means for you",
+  "paras": [
+   "A Victoria Police Public Place Permit lets us carry and use firearms on private land in built-up and semi-rural areas, something a recreational shooter cannot legally do. We notify the local police station before each session.",
+   "Everything is thermal and carefully placed, and nothing is left on the ground afterwards.",
+   "Most lifestyle-block jobs are one or two nights a year, timed to spring lambing on nearby farms when foxes are busiest, plus a rabbit night when the garden starts to suffer."
+  ]
+ },
+ {
+  "slug": "commercial-farm-pest-control-mornington-peninsula",
+  "group": "Property types",
+  "nav": "Commercial farms",
+  "service": "Commercial farm feral control",
+  "title": "Commercial Farm & Grazing Pest Control | Mornington Peninsula",
+  "desc": "Fox, rabbit and deer control for Mornington Peninsula commercial farms, graziers and livestock operations. Scheduled programs, thermal night shooting, fully licensed and insured.",
+  "h1": "Commercial farm pest control <em>Mornington Peninsula.</em>",
+  "eyebrow": "Commercial & broadacre farms",
+  "h2": "Feral control at a working-farm scale",
+  "lede": "Sheep and cattle graziers, cropping blocks and mixed farms across the Peninsula lose stock and pasture to foxes, rabbits and deer every season. We run scheduled control programs sized for a working operation, not a one-off callout.",
+  "paras": [
+   "Fox predation on lambs, rabbit damage to pasture and fodder crops, and deer breaking fences and grazing feed all cost a commercial operation real money. We build a program around your calendar: heavier work before and during lambing and calving, rabbit control through the growing season, and deer along the bush boundaries year-round.",
+   "Every job is covered by public liability insurance and run under the right firearms licence and, where blocks sit close to roads or houses, a Victoria Police Public Place Permit.",
+   "For larger holdings and multi-property operations we quote a per-hectare or per-program rate rather than a per-visit fee, and can coordinate with your existing baiting, ripping and fencing contractors so the whole control effort works together."
+  ]
+ },
+ {
+  "slug": "orchard-market-garden-pest-control-mornington-peninsula",
+  "group": "Property types",
+  "nav": "Orchards & market gardens",
+  "service": "Orchard and market garden feral control",
+  "title": "Orchard & Market Garden Pest Control | Mornington Peninsula",
+  "desc": "Rabbit, deer and fox control for Mornington Peninsula orchards, market gardens and turf farms. Bait-free around produce, scheduled programs, licensed and insured.",
+  "h1": "Orchard & market garden pest control <em>Mornington Peninsula.</em>",
+  "eyebrow": "Orchards, market gardens & turf",
+  "h2": "Control that works around produce",
+  "lede": "The apple and cherry orchards, market gardens and turf farms of the Peninsula lose young trees, seedlings and turf to rabbits and deer, and poultry and ground crops to foxes. Baiting near produce is a non-starter, so shooting is the fit.",
+  "paras": [
+   "Rabbits ring-bark young fruit trees and strip seedling beds; deer browse new growth and trample turf; foxes raid free-range poultry and dig in soft ground. Thermal night shooting is target-specific, leaves nothing in the soil or on the produce, and can be timed around picking and planting.",
+   "We work after hours and around harvest crews, remove deer carcasses, and work rabbit warrens so they can be ripped or fumigated between rotations. Nothing we use is a residue or food-safety concern near crops.",
+   "The Boneo, Rosebud South and Main Ridge growing country is where we see the heaviest pressure. Most growers run a monthly program through the growing season with extra visits when damage spikes."
+  ]
+ },
+ {
+  "slug": "feral-control-mount-martha",
+  "group": "Towns",
+  "nav": "Mount Martha",
+  "service": "Feral animal control",
+  "area": "Mount Martha, Victoria",
+  "title": "Pest &amp; Feral Control Mount Martha | Foxes, Rabbits, Deer",
+  "desc": "Fox, rabbit and deer control for Mount Martha and Balcombe Creek properties. Licensed, insured, bait-free and safe around homes. First night free.",
+  "h1": "Feral control <em>Mount Martha.</em>",
+  "eyebrow": "Mount Martha · Balcombe Creek · The Briars",
+  "lede": "Mount Martha's bush gullies and the Balcombe Creek corridor push foxes and rabbits straight onto the lifestyle blocks and horse properties above them.",
+  "h2": "Bush gullies and creek lines",
+  "paras": [
+   "Foxes move along the Balcombe Creek estuary and the wooded gullies behind Mount Martha, raiding poultry and taking lambs on the acreage up the hill. We run night thermal sessions timed to your losses, with clear backstops away from homes.",
+   "Rabbits are heavy on the sandy slopes and around The Briars reserve edge, chewing gardens, young trees and horse paddocks. We knock numbers down and point out the warrens so you can rip them.",
+   "Many Mount Martha blocks sit close to neighbours, so the work is done under our Victoria Police Public Place Permit with the local station notified before each session."
+  ]
+ },
+ {
+  "slug": "feral-control-rye",
+  "group": "Towns",
+  "nav": "Rye",
+  "service": "Feral animal control",
+  "area": "Rye, Victoria",
+  "title": "Pest &amp; Feral Control Rye &amp; Tootgarook | Rabbits &amp; Foxes",
+  "desc": "Rabbit and fox control for Rye, Tootgarook and the southern Peninsula back beaches. Heavy sand-country warrens handled bait-free. First night free.",
+  "h1": "Feral control <em>Rye.</em>",
+  "eyebrow": "Rye · Tootgarook · St Andrews Beach",
+  "lede": "The deep sand country around Rye and the Tootgarook wetland carries some of the heaviest rabbit numbers on the whole Peninsula.",
+  "h2": "Sand-country rabbits",
+  "paras": [
+   "Rabbits thrive in the soft sand around Rye, St Andrews Beach and the Tootgarook swamp, where warrens run deep and numbers build fast in gardens, on acreage and along the dunes. Open thermal shooting moves big numbers quickly, and the warrens get worked for ripping once the population is down.",
+   "Foxes work the Tootgarook wetland edge and the back-beach scrub, hitting poultry and threatening the waterbirds that use the swamp. Night sessions are timed to your losses and the season.",
+   "Rye blocks close to the township and the foreshore are covered by our Public Place Permit, so we can work ground most shooters legally can't."
+  ]
+ },
+ {
+  "slug": "feral-control-sorrento-portsea",
+  "group": "Towns",
+  "nav": "Sorrento &amp; Portsea",
+  "service": "Feral animal control",
+  "area": "Sorrento, Victoria",
+  "title": "Pest &amp; Feral Control Sorrento &amp; Portsea | Foxes, Cats, Rabbits",
+  "desc": "Fox, feral cat and rabbit control for Sorrento, Portsea and Blairgowrie, protecting coastal gardens and National Park wildlife. Licensed and insured.",
+  "h1": "Feral control <em>Sorrento.</em>",
+  "eyebrow": "Sorrento · Portsea · Blairgowrie",
+  "lede": "At the tip of the Peninsula, Sorrento and Portsea back onto the Mornington Peninsula National Park, where foxes and feral cats do real damage to coastal wildlife.",
+  "h2": "Coastal bush and the National Park",
+  "paras": [
+   "The dune scrub and National Park frontage at Sorrento, Portsea and Blairgowrie hold foxes and feral cats that raid aviaries and poultry and hammer the hooded plovers, bandicoots and small reptiles along the coast. Control on private land bordering the park takes real pressure off that wildlife.",
+   "Rabbits dig through the soft coastal soils into established gardens and dune plantings. We work them bait-free, with no poison near pets or the foreshore.",
+   "These are tight coastal blocks close to houses, so every job runs under our Public Place Permit with thermal optics and careful backstops, planned around your property at a daytime assessment."
+  ]
+ },
+ {
+  "slug": "feral-control-tyabb-somerville",
+  "group": "Towns",
+  "nav": "Tyabb &amp; Somerville",
+  "service": "Feral animal control",
+  "area": "Tyabb, Victoria",
+  "title": "Pest &amp; Feral Control Tyabb &amp; Somerville | Orchards &amp; Farms",
+  "desc": "Rabbit, fox and deer control for Tyabb, Somerville and Westernport-side orchards and market gardens. Bait-free around produce. First night free.",
+  "h1": "Feral control <em>Tyabb.</em>",
+  "eyebrow": "Tyabb · Somerville · Hastings hinterland",
+  "lede": "The orchards and market gardens on the Westernport side around Tyabb and Somerville give rabbits and foxes exactly the cover and feed they want.",
+  "h2": "Orchard and market-garden country",
+  "paras": [
+   "Rabbits move out of fence lines and drains into young trees, seedlings and turf around Tyabb and Somerville, ring-barking stock in a single night. We work them bait-free so there is no residue near produce, and point out the warrens for ripping between rotations.",
+   "Foxes along the Westernport drainage lines take poultry and free-range birds across the rural-residential blocks. Night thermal sessions are timed to your losses.",
+   "For the orchards, market gardens and horse blocks through here we quote per-program or per-hectare rates and work after hours and around picking and planting."
+  ]
+ },
+ {
+  "slug": "feral-control-baxter-pearcedale",
+  "group": "Towns",
+  "nav": "Baxter &amp; Pearcedale",
+  "service": "Feral animal control",
+  "area": "Baxter, Victoria",
+  "title": "Pest &amp; Feral Control Baxter &amp; Pearcedale | Foxes &amp; Rabbits",
+  "desc": "Fox and rabbit control for Baxter, Pearcedale and Devilbend-area grazing and lifestyle blocks. Licensed, insured, bait-free. First night free.",
+  "h1": "Feral control <em>Baxter.</em>",
+  "eyebrow": "Baxter · Pearcedale · Devilbend",
+  "lede": "The grazing and lifestyle blocks around Baxter and Pearcedale sit against the Devilbend reserve, which keeps refilling the area with foxes and rabbits.",
+  "h2": "Grazing land and Devilbend",
+  "paras": [
+   "Foxes work out of the Devilbend Natural Features Reserve and the creek lines onto the surrounding grazing and lifestyle blocks, taking lambs and poultry. We run night thermal sessions with clear backstops and time them to lambing and to your losses.",
+   "Rabbits are steady across the pasture and fence lines around Baxter and Pearcedale, cutting into feed and chewing young plantings. We knock numbers down and work the warrens for ripping.",
+   "Blocks near the Frankston-Flinders Road and the townships are covered under our Public Place Permit, so we can work close to houses and roads legally."
+  ]
+ },
+ {
+  "slug": "feral-control-moorooduc",
+  "group": "Towns",
+  "nav": "Moorooduc",
+  "service": "Feral animal control",
+  "area": "Moorooduc, Victoria",
+  "title": "Pest &amp; Feral Control Moorooduc | Vineyards &amp; Horse Blocks",
+  "desc": "Rabbit, fox and deer control for Moorooduc vineyards and horse properties. Bait-free, worked around cellar-door hours. First night free.",
+  "h1": "Feral control <em>Moorooduc.</em>",
+  "eyebrow": "Moorooduc · Moorooduc Plains · Tuerong",
+  "lede": "The vineyards and horse properties across the Moorooduc plains sit on sandy soils that rabbits love and along bush edges that foxes travel.",
+  "h2": "Vineyards and horse country",
+  "paras": [
+   "Rabbits on the sandy Moorooduc soils ring-bark young vines and chew horse paddocks and gardens. We shoot small-calibre along the rows, dams and fence lines after cellar-door hours and work the warrens for ripping.",
+   "Foxes move along the bush edges and creek lines onto the horse and lifestyle blocks, taking poultry and threatening foaling paddocks. Night sessions are timed to the season and your losses.",
+   "Deer come through from the Tuerong and Red Hill side onto the vines and are worked along the bush boundary with carcasses removed."
+  ]
+ },
+ {
+  "slug": "feral-control-shoreham-point-leo",
+  "group": "Towns",
+  "nav": "Shoreham &amp; Point Leo",
+  "service": "Feral animal control",
+  "area": "Shoreham, Victoria",
+  "title": "Pest &amp; Feral Control Shoreham &amp; Point Leo | Deer &amp; Foxes",
+  "desc": "Deer, fox and feral cat control for Shoreham, Point Leo and the southern coast bush blocks. Licensed, insured, carcass removal included.",
+  "h1": "Feral control <em>Shoreham.</em>",
+  "eyebrow": "Shoreham · Point Leo · Merricks Beach",
+  "lede": "The bush blocks and coastal scrub around Shoreham and Point Leo back onto the Westernport bush, which is where the deer, foxes and cats come from.",
+  "h2": "Southern coast bush blocks",
+  "paras": [
+   "Fallow deer, and the occasional red or hog deer, move out of the Westernport bush onto the acreage and vineyards around Shoreham and Merricks, damaging fences and new growth. We work the bush boundary at dusk with thermal optics and remove the carcasses.",
+   "Foxes and feral cats work the coastal scrub and creek lines, raiding poultry and hitting the small native wildlife along this stretch of coast. Control here takes real pressure off the foreshore birds.",
+   "Many blocks sit close to the Shoreham and Point Leo settlements, so the work runs under our Public Place Permit, planned at a daytime assessment."
+  ]
+ },
+ {
+  "slug": "feral-control-frankston-south-langwarrin",
+  "group": "Towns",
+  "nav": "Frankston South &amp; Langwarrin",
+  "service": "Feral animal control",
+  "area": "Frankston South, Victoria",
+  "title": "Pest &amp; Feral Control Frankston South &amp; Langwarrin | Foxes",
+  "desc": "Fox and rabbit control for Frankston South and Langwarrin bush-edge lifestyle blocks near Sweetwater Creek and the Flora &amp; Fauna Reserve. First night free.",
+  "h1": "Feral control <em>Frankston South.</em>",
+  "eyebrow": "Frankston South · Langwarrin · Sweetwater Creek",
+  "lede": "The bush-edge lifestyle blocks around Frankston South and Langwarrin back onto reserves that keep the area stocked with foxes and rabbits.",
+  "h2": "Reserve-edge lifestyle blocks",
+  "paras": [
+   "Foxes work out of the Langwarrin Flora and Fauna Reserve and the Sweetwater Creek corridor onto the surrounding lifestyle and horse blocks, taking poultry and threatening the reserves' native wildlife. We run night thermal sessions timed to your losses with clear backstops.",
+   "Rabbits are steady across the sandy blocks here, chewing gardens, young trees and paddocks. We knock numbers down and work the warrens for ripping.",
+   "These blocks sit close to houses and roads at the Peninsula's northern gateway, so the work is done under our Public Place Permit with the local station notified before each session."
+  ]
+ }
 ]
