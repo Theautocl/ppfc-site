@@ -117,13 +117,18 @@ PROOF_ITEMS = [
 ]
 GALLERY = ('<style>.proof-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));'
            'gap:14px;margin-top:22px}.proof-grid img{width:100%;height:200px;object-fit:cover;display:block;'
+           'border-radius:12px;border:1px solid var(--line);background:#0d1a12}'
+           '.proof-video{margin-top:22px}.proof-video video{width:100%;height:auto;display:block;'
            'border-radius:12px;border:1px solid var(--line);background:#0d1a12}</style>'
            '<section class="band" style="background:var(--surface)" id="proof"><div class="wrap">'
            '<p class="eyebrow">Real jobs, real results</p>'
            '<h2>What a night on the Peninsula looks like</h2>'
            '<p style="max-width:62ch;margin-top:10px;color:var(--muted)">Every target identified and '
            'taken with a clear backstop, day or night. These are our own thermal and night-vision '
-           'captures from local properties.</p><div class="proof-grid">'
+           'captures from local properties.</p>'
+           '<div class="proof-video"><video src="/video/night-stalk.mp4" poster="/video/night-stalk-poster.jpg" '
+           'autoplay muted loop playsinline preload="metadata"></video></div>'
+           '<div class="proof-grid">'
            + "".join(f'<img src="/img/{f}" loading="lazy" alt="{html.escape(c)}">' for f, c in PROOF_ITEMS)
            + '</div></div></section>')
 
