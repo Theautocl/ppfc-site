@@ -111,6 +111,9 @@ PROOF_ITEMS = [
     ("proof-rabbits-pair-92m.jpg", "Pair at range — 92m"),
     ("proof-rabbit-foliage-25m.jpg", "In cover — 25m"),
     ("proof-thermal-orchard.jpg", "Thermal scan — orchard edge"),
+    ("proof-rabbit-scope.jpg", "Rabbit in the reticle"),
+    ("proof-rat-nightvision.jpg", "Rat on night vision"),
+    ("proof-three-rabbits-nightvision.jpg", "Three rabbits in one thermal scan at 36m"),
 ]
 GALLERY = ('<style>.proof-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));'
            'gap:14px;margin-top:22px}.proof-grid img{width:100%;height:200px;object-fit:cover;display:block;'
