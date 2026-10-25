@@ -112,6 +112,7 @@ PROOF_ITEMS = [
     ("proof-rabbit-foliage-25m.jpg", "In cover — 25m"),
     ("proof-thermal-orchard.jpg", "Thermal scan — orchard edge"),
     ("proof-rabbit-scope.jpg", "Rabbit in the reticle"),
+    ("proof-rabbit-reticle-36m.jpg", "Rabbit ranged at 36m on the day scope"),
     ("proof-rat-nightvision.jpg", "Rat on night vision"),
     ("proof-three-rabbits-nightvision.jpg", "Three rabbits in one thermal scan at 36m"),
 ]
@@ -131,6 +132,7 @@ GALLERY = ('<style>.proof-grid{display:grid;grid-template-columns:repeat(auto-fi
            '<video src="/video/night-stalk.mp4" poster="/video/night-stalk-poster.jpg" autoplay muted loop playsinline preload="metadata"></video>'
            '<video src="/video/night-stalk-2.mp4" poster="/video/night-stalk-2-poster.jpg" autoplay muted loop playsinline preload="metadata"></video>'
            '<video src="/video/night-stalk-3.mp4" poster="/video/night-stalk-3-poster.jpg" autoplay muted loop playsinline preload="metadata"></video>'
+           '<video src="/video/field-clip-4.mp4" poster="/video/field-clip-4-poster.jpg" autoplay muted loop playsinline preload="metadata"></video>'
            '</div>'
            '<div class="proof-grid">'
            + "".join(f'<img src="/img/{f}" loading="lazy" alt="{html.escape(c)}">' for f, c in PROOF_ITEMS)
