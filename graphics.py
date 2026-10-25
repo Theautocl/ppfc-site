@@ -132,7 +132,7 @@ OG_SVG = """<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" vi
 <text x="80" y="200" font-size="92" letter-spacing="1">PENINSULA</text>
 <text x="80" y="300" font-size="92" letter-spacing="1">PEST SHOOTING</text>
 <text x="80" y="390" font-size="40" font-weight="600" fill="#c47d07" letter-spacing="4">FOXES · RABBITS · DEER · FERAL CATS · RATS</text>
-<text x="80" y="470" font-size="36" font-weight="600" fill="#e9eee6" opacity=".85">Mornington Peninsula · Licensed &amp; insured · First night free</text>
+<text x="80" y="470" font-size="36" font-weight="600" fill="#e9eee6" opacity=".85">Mornington Peninsula · Licensed, insured &amp; bait-free</text>
 <text x="80" y="550" font-size="40" font-weight="700" fill="#c47d07">Text 0466 659 997</text>
 </g>
 <circle cx="1010" cy="315" r="150" fill="#0b120e" stroke="#c47d07" stroke-width="6"/>

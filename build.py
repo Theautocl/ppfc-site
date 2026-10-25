@@ -144,7 +144,7 @@ graph_base = [business, {"@type": "WebSite", "url": DOMAIN + "/", "name": NAME}]
 # ---- home
 (DIST / "index.html").write_text(skeleton(
     "Pest & Feral Shooting Mornington Peninsula | Fox, Rabbit & Deer Shooter",
-    "Licensed, insured pest and feral shooting across the Mornington Peninsula — foxes, rabbits, deer, feral cats and rats. A professional shooter, not a termite or spray company. First night free. Text 0466 659 997.",
+    "Licensed, insured pest and feral shooting across the Mornington Peninsula — foxes, rabbits, deer, feral cats and rats. A professional shooter, not a termite or spray company. $50 first-night callout. Text 0466 659 997.",
     DOMAIN + "/", head_assets + "\n</head>\n<body>\n" + body_rest.replace('<section class="band price-band" id="pricing">', GALLERY + faq_html(faqs["hobby-farm-pest-control-mornington-peninsula"][:2] + faqs["fox-control-mornington-peninsula"][1:3] + faqs["acreage-pest-control-mornington-peninsula"][:1]) + '<section class="band price-band" id="pricing">', 1),
     {"@context": "https://schema.org", "@graph": graph_base + [faq_schema(faqs["hobby-farm-pest-control-mornington-peninsula"][:2] + faqs["fox-control-mornington-peninsula"][1:3] + faqs["acreage-pest-control-mornington-peninsula"][:1])]}))
 urls.append("/")
@@ -156,7 +156,7 @@ for p in pages:
     local = f"""<section class="band" style="background:var(--surface)">
   <div class="wrap"><p class="eyebrow">{p['eyebrow']}</p><h2>{p['h2']}</h2>
     <div style="max-width:68ch;margin-top:18px;display:grid;gap:14px;font-size:17px">{''.join(f'<p>{para}</p>' for para in p['paras'])}</div>
-    <p style="margin-top:22px"><a class="btn btn-amber" href="#quote">Book your free first night</a></p></div></section>"""
+    <p style="margin-top:22px"><a class="btn btn-amber" href="#quote">Book your first night</a></p></div></section>"""
     pf = faqs.get(slug)
     if pf: local += faq_html(pf)
     cr = [("Home", DOMAIN + "/"), (p["group"], DOMAIN + "/#services"), (p["nav"], url)]
@@ -164,7 +164,7 @@ for p in pages:
         "@type": "Service", "name": p["title"].split("|")[0].strip(), "url": url,
         "provider": {"@id": DOMAIN + "/#business"}, "areaServed": p.get("area", "Mornington Peninsula, Victoria"),
         "serviceType": p["service"], "description": p["desc"],
-        "offers": {"@type": "Offer", "price": "400", "priceCurrency": "AUD", "description": "Per night session; first night free"}}]
+        "offers": {"@type": "Offer", "price": "400", "priceCurrency": "AUD", "description": "Per night session; $50 first-night callout"}}]
     if pf: graph.append(faq_schema(pf))
     out = DIST / slug; out.mkdir(exist_ok=True)
     (out / "index.html").write_text(skeleton(p["title"], p["desc"], url, head_assets + "\n</head>\n<body>\n" + page_body(p["h1"], p["lede"], p["eyebrow"], local, cr), {"@context": "https://schema.org", "@graph": graph}))
@@ -184,7 +184,7 @@ def simple_page(title, desc, path, inner, crumb_items, extra_graph=None):
 post_cards = ""
 for po in posts:
     path = f"/blog/{po['slug']}/"
-    inner = f'<section class="band"><div class="wrap"><p class="eyebrow">{po["date"]}</p><h2>{html.escape(po["title"])}</h2><div class="post">' + "".join(f"<p>{html.escape(x)}</p>" for x in po["paras"]) + f'<p><a class="btn btn-amber" href="#quote">Book your free first night</a></p></div></div></section>'
+    inner = f'<section class="band"><div class="wrap"><p class="eyebrow">{po["date"]}</p><h2>{html.escape(po["title"])}</h2><div class="post">' + "".join(f"<p>{html.escape(x)}</p>" for x in po["paras"]) + f'<p><a class="btn btn-amber" href="#quote">Book your first night</a></p></div></div></section>'
     cr = [("Home", DOMAIN + "/"), ("Blog", DOMAIN + "/blog/"), (po["title"][:40] + "…", DOMAIN + path)]
     simple_page(po["title"] + " | " + NAME, po["desc"], path, inner, cr, [{
         "@type": "Article", "headline": po["title"], "datePublished": po["date"], "dateModified": po["date"],
