@@ -62,7 +62,8 @@ business = {
     "areaServed": [{"@type": "Place", "name": t + ", Victoria"} for t in TOWNS],
     "address": {"@type": "PostalAddress", "addressRegion": "VIC", "addressLocality": "Mornington Peninsula", "addressCountry": "AU"},
     "priceRange": "$220-$400", "openingHours": "Mo-Su 08:00-19:00",
-    "knowsAbout": ["fox control", "rabbit control", "deer control", "feral cat control", "rat control", "thermal shooting"],
+    "knowsAbout": ["fox control", "rabbit control", "deer control", "feral cat control", "rat control", "pest bird control", "thermal shooting"],
+    "geo": {"@type": "GeoCoordinates", "latitude": -38.2174, "longitude": 145.0382},
     "sameAs": ["https://www.facebook.com/PeninsulaPestShooting", "https://www.youtube.com/channel/UCI6NGhFcsOvsG0OXY2zj_9A"],
 }
 def crumbs(items):
@@ -141,6 +142,16 @@ GALLERY = ('<style>.proof-grid{display:grid;grid-template-columns:repeat(auto-fi
            '<p style="margin-top:24px"><a class="btn btn-ghost" href="https://www.youtube.com/channel/UCI6NGhFcsOvsG0OXY2zj_9A" target="_blank" rel="noopener">Watch more on YouTube</a></p>'
            '</div></section>')
 
+VIDEO_CLIPS = [
+    ("night-stalk.mp4", "night-stalk-poster.jpg", "Thermal pest control on the Mornington Peninsula", "Thermal night shooting of feral animals on a Mornington Peninsula property. Every target identified with a clear backstop, bait-free."),
+    ("night-stalk-2.mp4", "night-stalk-2-poster.jpg", "Night vision rabbit control — Mornington Peninsula", "Night vision rabbit control on a Peninsula block. Bait-free and safe around stock and dogs."),
+    ("night-stalk-3.mp4", "night-stalk-3-poster.jpg", "Bait-free feral control — Mornington Peninsula", "Professional feral and vermin shooting across the Mornington Peninsula, Victoria."),
+    ("field-clip-4.mp4", "field-clip-4-poster.jpg", "Rabbit ranged at 36m — day scope", "Daytime rabbit control on a Mornington Peninsula property, ranged and taken at 36 metres."),
+]
+VIDEO_OBJECTS = [{"@type": "VideoObject", "name": n, "description": d,
+    "thumbnailUrl": DOMAIN + "/video/" + poster, "contentUrl": DOMAIN + "/video/" + mp4,
+    "uploadDate": "2026-10-25"} for mp4, poster, n, d in VIDEO_CLIPS]
+
 urls = []
 graph_base = [business, {"@type": "WebSite", "url": DOMAIN + "/", "name": NAME}]
 
@@ -149,7 +160,7 @@ graph_base = [business, {"@type": "WebSite", "url": DOMAIN + "/", "name": NAME}]
     "Pest & Feral Shooting Mornington Peninsula | Fox, Rabbit & Deer Shooter",
     "Licensed, insured pest and feral shooting across the Mornington Peninsula — foxes, rabbits, deer, feral cats, rats and introduced pest birds. A professional shooter, not a termite or spray company. $50 first-night callout. Text 0466 659 997.",
     DOMAIN + "/", head_assets + "\n</head>\n<body>\n" + body_rest.replace('<section class="band price-band" id="pricing">', GALLERY + faq_html(faqs["hobby-farm-pest-control-mornington-peninsula"][:2] + faqs["fox-control-mornington-peninsula"][1:3] + faqs["acreage-pest-control-mornington-peninsula"][:1]) + '<section class="band price-band" id="pricing">', 1),
-    {"@context": "https://schema.org", "@graph": graph_base + [faq_schema(faqs["hobby-farm-pest-control-mornington-peninsula"][:2] + faqs["fox-control-mornington-peninsula"][1:3] + faqs["acreage-pest-control-mornington-peninsula"][:1])]}))
+    {"@context": "https://schema.org", "@graph": graph_base + [faq_schema(faqs["hobby-farm-pest-control-mornington-peninsula"][:2] + faqs["fox-control-mornington-peninsula"][1:3] + faqs["acreage-pest-control-mornington-peninsula"][:1])] + VIDEO_OBJECTS}))
 urls.append("/")
 
 # ---- ranking pages
