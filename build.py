@@ -213,10 +213,31 @@ simple_page("Privacy | " + NAME, "How Peninsula Professional Feral Control handl
             f'<section class="band"><div class="wrap"><p class="eyebrow">Privacy</p><h2>Your details</h2><div class="post"><p>We collect only what you give us to book a job: your name, phone number, property address and what you want controlled. We use it to contact you, plan the visit and keep a record of the work done. We do not sell or share it, except where the law requires us to notify police of firearm use at a location.</p><p>Landholder authority forms and job records are kept for seven years as required for firearms and insurance purposes. To see or delete what we hold about you, text {PHONE} or email {EMAIL}.</p><p>This site does not use advertising cookies. Basic server logs are kept for security.</p></div></div></section>',
             [("Home", DOMAIN + "/"), ("Privacy", DOMAIN + "/privacy/")])
 
+# ---- about
+about_paras = [
+ "Peninsula Pest Shooting is owner-operated. You deal with Josh — the person who assesses your property, does the work and turns up again next time. No call centre, no subcontractors, no franchise.",
+ "I've lived on the Mornington Peninsula for more than 25 years, so this isn't a patch I drive out to — it's home. I've been shooting for around 18 years and controlling pests on and off on other people's properties for about 9 of them. That means I know the country, the seasons and the problems particular to blocks around here: foxes on the lambing paddocks, rabbits ring-barking the vines, deer coming out of the parks and reserves.",
+ "What drives it is conservation as much as anything. Foxes, rabbits, feral cats and introduced birds do real damage to native wildlife and habitat on the Peninsula, and doing the job properly — target-specific, bait-free, with nothing left in the paddock to poison an owl or a working dog — protects the native animals as well as your stock and crops. That's why I shoot rather than bait, and why I won't touch protected native species without the right permit.",
+ "I hold a Victorian firearms licence, a game licence for deer, public liability insurance, and a Victoria Police Public Place Permit for working on blocks close to houses and roads. Every job is done humanely, within the law, and with your neighbours and your animals in mind.",
+ "If foxes, rabbits, deer, feral cats, rats or pest birds are doing damage, the first night on your property is a $50 callout and we'll walk it together. Text " + PHONE + ".",
+]
+about_inner = ('<section class="band"><div class="wrap"><p class="eyebrow">Owner-operated · Peninsula-based</p>'
+ '<h2>The person who turns up</h2><div class="post">'
+ + "".join(f"<p>{x}</p>" for x in about_paras)
+ + '</div><p style="margin-top:22px"><a class="btn btn-amber" href="#quote">Book your first night</a></p></div></section>')
+simple_page("About Peninsula Pest Shooting | Owner-Operated Peninsula Pest Shooter",
+            "Peninsula Pest Shooting is owner-operated by Josh — 25 years on the Mornington Peninsula, 18 years shooting, licensed and insured, with a conservation-first approach to feral control.",
+            "/about/", about_inner,
+            [("Home", DOMAIN + "/"), ("About", DOMAIN + "/about/")],
+            [{"@type": "AboutPage", "url": DOMAIN + "/about/", "name": "About " + NAME, "mainEntity": {"@id": DOMAIN + "/#business"}},
+             {"@type": "Person", "name": "Josh", "jobTitle": "Licensed pest and feral shooter",
+              "worksFor": {"@id": DOMAIN + "/#business"}, "homeLocation": {"@type": "Place", "name": "Mornington Peninsula, Victoria"},
+              "knowsAbout": ["feral control", "fox control", "rabbit control", "deer control", "thermal shooting", "wildlife conservation"]}])
+
 # ---- footer links block (internal linking) + sitemap
 groups = {}
 for g, n, u in nav_links: groups.setdefault(g, []).append(f'<a href="{u}">{n}</a>')
-groups["More"] = ['<a href="/blog/">Blog</a>', '<a href="/privacy/">Privacy</a>', '<a href="/#pricing">Pricing</a>']
+groups["More"] = ['<a href="/about/">About</a>', '<a href="/blog/">Blog</a>', '<a href="/privacy/">Privacy</a>', '<a href="/#pricing">Pricing</a>']
 links_html = '<section class="band" style="padding-block:36px;border-top:1px solid var(--line)"><div class="wrap" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:24px;font-size:14px">'
 for g, items in groups.items():
     links_html += f'<div><p class="eyebrow" style="margin-bottom:8px">{g}</p><div style="display:grid;gap:4px">{"".join(items)}</div></div>'
