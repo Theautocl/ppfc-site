@@ -63,6 +63,7 @@ business = {
     "address": {"@type": "PostalAddress", "addressRegion": "VIC", "addressLocality": "Mornington Peninsula", "addressCountry": "AU"},
     "priceRange": "$220-$400", "openingHours": "Mo-Su 08:00-19:00",
     "knowsAbout": ["fox control", "rabbit control", "deer control", "feral cat control", "rat control", "thermal shooting"],
+    "sameAs": ["https://www.facebook.com/PeninsulaPestShooting"],
 }
 def crumbs(items):
     return {"@type": "BreadcrumbList", "itemListElement": [
