@@ -137,7 +137,9 @@ GALLERY = ('<style>.proof-grid{display:grid;grid-template-columns:repeat(auto-fi
            '</div>'
            '<div class="proof-grid">'
            + "".join(f'<img src="/img/{f}" loading="lazy" alt="{html.escape(c)}">' for f, c in PROOF_ITEMS)
-           + '</div></div></section>')
+           + '</div>'
+           '<p style="margin-top:24px"><a class="btn btn-ghost" href="https://www.youtube.com/channel/UCI6NGhFcsOvsG0OXY2zj_9A" target="_blank" rel="noopener">Watch more on YouTube</a></p>'
+           '</div></section>')
 
 urls = []
 graph_base = [business, {"@type": "WebSite", "url": DOMAIN + "/", "name": NAME}]
