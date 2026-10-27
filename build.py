@@ -135,6 +135,10 @@ GALLERY = ('<style>.proof-grid{display:grid;grid-template-columns:repeat(auto-fi
            '<video src="/video/night-stalk-2.mp4" poster="/video/night-stalk-2-poster.jpg" autoplay muted loop playsinline preload="metadata"></video>'
            '<video src="/video/night-stalk-3.mp4" poster="/video/night-stalk-3-poster.jpg" autoplay muted loop playsinline preload="metadata"></video>'
            '<video src="/video/field-clip-4.mp4" poster="/video/field-clip-4-poster.jpg" autoplay muted loop playsinline preload="metadata"></video>'
+           '<video src="/video/night-stalk-5.mp4" poster="/video/night-stalk-5-poster.jpg" autoplay muted loop playsinline preload="metadata"></video>'
+           '<video src="/video/night-stalk-6.mp4" poster="/video/night-stalk-6-poster.jpg" autoplay muted loop playsinline preload="metadata"></video>'
+           '<video src="/video/night-stalk-7.mp4" poster="/video/night-stalk-7-poster.jpg" autoplay muted loop playsinline preload="metadata"></video>'
+           '<video src="/video/night-stalk-8.mp4" poster="/video/night-stalk-8-poster.jpg" autoplay muted loop playsinline preload="metadata"></video>'
            '</div>'
            '<div class="proof-grid">'
            + "".join(f'<img src="/img/{f}" loading="lazy" alt="{html.escape(c)}">' for f, c in PROOF_ITEMS)
@@ -147,6 +151,10 @@ VIDEO_CLIPS = [
     ("night-stalk-2.mp4", "night-stalk-2-poster.jpg", "Night vision rabbit control — Mornington Peninsula", "Night vision rabbit control on a Peninsula block. Bait-free and safe around stock and dogs."),
     ("night-stalk-3.mp4", "night-stalk-3-poster.jpg", "Bait-free feral control — Mornington Peninsula", "Professional feral and vermin shooting across the Mornington Peninsula, Victoria."),
     ("field-clip-4.mp4", "field-clip-4-poster.jpg", "Rabbit ranged at 36m — day scope", "Daytime rabbit control on a Mornington Peninsula property, ranged and taken at 36 metres."),
+    ("night-stalk-5.mp4", "night-stalk-5-poster.jpg", "Thermal control at range — Mornington Peninsula", "Thermal night shooting on a Peninsula property, target identified at range with a clear backstop. Bait-free."),
+    ("night-stalk-6.mp4", "night-stalk-6-poster.jpg", "Night thermal feral control — Peninsula", "Bait-free feral and vermin control at night with thermal optics across the Mornington Peninsula."),
+    ("night-stalk-7.mp4", "night-stalk-7-poster.jpg", "Thermal pest control on the Peninsula", "Professional thermal shooting of feral animals on a Mornington Peninsula property."),
+    ("night-stalk-8.mp4", "night-stalk-8-poster.jpg", "Bait-free night shooting — Peninsula", "Licensed, insured night pest control across the Mornington Peninsula, Victoria."),
 ]
 VIDEO_OBJECTS = [{"@type": "VideoObject", "name": n, "description": d,
     "thumbnailUrl": DOMAIN + "/video/" + poster, "contentUrl": DOMAIN + "/video/" + mp4,
