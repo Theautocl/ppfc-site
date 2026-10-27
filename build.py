@@ -64,7 +64,7 @@ business = {
     "priceRange": "$220-$400", "openingHours": "Mo-Su 08:00-19:00",
     "knowsAbout": ["fox control", "rabbit control", "deer control", "feral cat control", "rat control", "pest bird control", "thermal shooting"],
     "geo": {"@type": "GeoCoordinates", "latitude": -38.2174, "longitude": 145.0382},
-    "sameAs": ["https://www.facebook.com/PeninsulaPestShooting", "https://www.youtube.com/channel/UCI6NGhFcsOvsG0OXY2zj_9A"],
+    "sameAs": ["https://www.facebook.com/PeninsulaPestShooting", "https://www.youtube.com/channel/UCI6NGhFcsOvsG0OXY2zj_9A", "https://www.tiktok.com/@peninsulapestshooting"],
 }
 def crumbs(items):
     return {"@type": "BreadcrumbList", "itemListElement": [
