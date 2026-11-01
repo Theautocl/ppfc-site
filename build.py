@@ -61,7 +61,7 @@ business = {
     "description": "Licensed, insured professional ground shooting for foxes, rabbits, deer, feral cats and rats across the Mornington Peninsula, Victoria.",
     "areaServed": [{"@type": "Place", "name": t + ", Victoria"} for t in TOWNS],
     "address": {"@type": "PostalAddress", "addressRegion": "VIC", "addressLocality": "Mornington Peninsula", "addressCountry": "AU"},
-    "priceRange": "$220-$400", "openingHours": "Mo-Su 08:00-19:00",
+    "priceRange": "$50 callout, then quoted after consult", "openingHours": "Mo-Su 08:00-19:00",
     "knowsAbout": ["fox control", "rabbit control", "deer control", "feral cat control", "rat control", "pest bird control", "thermal shooting"],
     "geo": {"@type": "GeoCoordinates", "latitude": -38.2174, "longitude": 145.0382},
     "sameAs": ["https://www.facebook.com/PeninsulaPestShooting", "https://www.youtube.com/channel/UCI6NGhFcsOvsG0OXY2zj_9A", "https://www.tiktok.com/@peninsulapestshooting"],
@@ -186,7 +186,7 @@ for p in pages:
         "@type": "Service", "name": p["title"].split("|")[0].strip(), "url": url,
         "provider": {"@id": DOMAIN + "/#business"}, "areaServed": p.get("area", "Mornington Peninsula, Victoria"),
         "serviceType": p["service"], "description": p["desc"],
-        "offers": {"@type": "Offer", "price": "400", "priceCurrency": "AUD", "description": "Per night session; $50 first-night callout"}}]
+        "offers": {"@type": "Offer", "price": "50", "priceCurrency": "AUD", "description": "$50 first-night callout, then a plan and price tailored to the property"}}]
     if pf: graph.append(faq_schema(pf))
     out = DIST / slug; out.mkdir(exist_ok=True)
     (out / "index.html").write_text(skeleton(p["title"], p["desc"], url, head_assets + "\n</head>\n<body>\n" + page_body(p["h1"], p["lede"], p["eyebrow"], local, cr), {"@context": "https://schema.org", "@graph": graph}))
