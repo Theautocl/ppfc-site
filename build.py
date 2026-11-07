@@ -62,6 +62,10 @@ business = {
     "areaServed": [{"@type": "Place", "name": t + ", Victoria"} for t in TOWNS],
     "address": {"@type": "PostalAddress", "addressRegion": "VIC", "addressLocality": "Mornington Peninsula", "addressCountry": "AU"},
     "priceRange": "$50 callout, then quoted after consult", "openingHours": "Mo-Su 08:00-19:00",
+    "openingHoursSpecification": [{"@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "opens": "08:00", "closes": "19:00"}],
+    "slogan": "Six pests. One phone call.",
     "knowsAbout": ["fox control", "rabbit control", "deer control", "feral cat control", "rat control", "pest bird control", "thermal shooting"],
     "geo": {"@type": "GeoCoordinates", "latitude": -38.2174, "longitude": 145.0382},
     "sameAs": ["https://www.facebook.com/PeninsulaPestShooting", "https://www.youtube.com/channel/UCI6NGhFcsOvsG0OXY2zj_9A", "https://www.tiktok.com/@peninsulapestshooting"],
@@ -167,8 +171,8 @@ graph_base = [business, {"@type": "WebSite", "url": DOMAIN + "/", "name": NAME}]
 (DIST / "index.html").write_text(skeleton(
     "Pest & Feral Shooting Mornington Peninsula | Fox, Rabbit & Deer Shooter",
     "Licensed, insured pest and feral shooting across the Mornington Peninsula — foxes, rabbits, deer, feral cats, rats and introduced pest birds. A professional shooter, not a termite or spray company. $50 first-night callout. Text 0466 659 997.",
-    DOMAIN + "/", head_assets + "\n</head>\n<body>\n" + body_rest.replace('<section class="band price-band" id="pricing">', GALLERY + faq_html(faqs["hobby-farm-pest-control-mornington-peninsula"][:2] + faqs["fox-control-mornington-peninsula"][1:3] + faqs["acreage-pest-control-mornington-peninsula"][:1]) + '<section class="band price-band" id="pricing">', 1),
-    {"@context": "https://schema.org", "@graph": graph_base + [faq_schema(faqs["hobby-farm-pest-control-mornington-peninsula"][:2] + faqs["fox-control-mornington-peninsula"][1:3] + faqs["acreage-pest-control-mornington-peninsula"][:1])] + VIDEO_OBJECTS}))
+    DOMAIN + "/", head_assets + "\n</head>\n<body>\n" + body_rest.replace('<section class="band price-band" id="pricing">', GALLERY + faq_html(faqs["pest-shooting-mornington-peninsula"][:1] + faqs["hobby-farm-pest-control-mornington-peninsula"][:2] + faqs["fox-control-mornington-peninsula"][1:3] + faqs["acreage-pest-control-mornington-peninsula"][:1]) + '<section class="band price-band" id="pricing">', 1),
+    {"@context": "https://schema.org", "@graph": graph_base + [faq_schema(faqs["pest-shooting-mornington-peninsula"][:1] + faqs["hobby-farm-pest-control-mornington-peninsula"][:2] + faqs["fox-control-mornington-peninsula"][1:3] + faqs["acreage-pest-control-mornington-peninsula"][:1])] + VIDEO_OBJECTS}))
 urls.append("/")
 
 # ---- ranking pages
