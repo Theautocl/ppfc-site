@@ -36,6 +36,8 @@ def skeleton(title, desc, canonical, body, schema):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <title>{html.escape(title)}</title>
 <meta name="description" content="{html.escape(desc)}">
 <link rel="canonical" href="{canonical}">
@@ -221,7 +223,7 @@ simple_page("Feral control notes from the Mornington Peninsula | " + NAME, "Prac
             [("Home", DOMAIN + "/"), ("Blog", DOMAIN + "/blog/")])
 
 # ---- privacy
-simple_page("Privacy | " + NAME, "How Peninsula Professional Feral Control handles the details you give us.", "/privacy/",
+simple_page("Privacy | " + NAME, "How Peninsula Pest Shooting handles the details you give us.", "/privacy/",
             f'<section class="band"><div class="wrap"><p class="eyebrow">Privacy</p><h2>Your details</h2><div class="post"><p>We collect only what you give us to book a job: your name, phone number, property address and what you want controlled. We use it to contact you, plan the visit and keep a record of the work done. We do not sell or share it, except where the law requires us to notify police of firearm use at a location.</p><p>Landholder authority forms and job records are kept for seven years as required for firearms and insurance purposes. To see or delete what we hold about you, text {PHONE} or email {EMAIL}.</p><p>This site does not use advertising cookies. Basic server logs are kept for security.</p></div></div></section>',
             [("Home", DOMAIN + "/"), ("Privacy", DOMAIN + "/privacy/")])
 
